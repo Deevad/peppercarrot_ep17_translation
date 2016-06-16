@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 17:
+# Episode 17: A Fresh Start
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* English: Alex Gryson
 * French: David Revoy
 
 
