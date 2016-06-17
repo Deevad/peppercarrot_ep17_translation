@@ -168,17 +168,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1046"
+     inkscape:window-width="1188"
+     inkscape:window-height="562"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.56568544"
-     inkscape:cx="938.11102"
-     inkscape:cy="2716.4372"
+     inkscape:cx="1312.3828"
+     inkscape:cy="2999.2799"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:window-y="470"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -187,11 +187,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep17_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -295,28 +295,30 @@
          id="tspan4184">toda la historia.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="1330.4833"
        y="460.15073"
        id="text4246-0-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          x="1330.4833"
          y="460.15073"
          id="tspan4191">...y me dices que</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          x="1330.4833"
-         y="516.40076"
+         y="521.05383"
          id="tspan4185">estás <tspan
-   style="font-size:50px"
+   style="font-size:50px;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="tspan4189">aquí</tspan>, ¿Por que</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          x="1330.4833"
-         y="572.65076"
-         id="tspan4193">no has aprendido NADA?</tspan></text>
+         y="578.90076"
+         id="tspan4193">no has aprendido <tspan
+   style="stroke:#000000;stroke-opacity:1"
+   id="tspan4186">nada</tspan>?</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 443.67983,204.1747 c -1.77862,-12.24058 30.23664,-76.70743 138.73301,-68.54704 108.49635,8.16038 129.83992,54.6744 128.95057,70.99517 -0.88935,16.32069 -27.56868,41.61784 -43.5764,45.69803 -16.00763,4.08019 -57.80541,13.87256 -84.48492,10.60852 -26.67932,-3.26421 -108.49627,-19.5849 -124.50399,-34.27361 -16.00763,-14.68862 -13.33966,-21.21695 -15.11827,-24.48107 z"
