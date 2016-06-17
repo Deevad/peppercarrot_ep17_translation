@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="1100"
    height="765"
-   sodipodi:docname="cover.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -171,8 +171,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380222"
-     inkscape:cx="307.20939"
-     inkscape:cy="354.37059"
+     inkscape:cx="709.39915"
+     inkscape:cy="200.57588"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -183,13 +183,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/deevad/peppercarrot/scripts/lib/../gfx_Pepper-and-Carrot_by-David-Revoy_E17.png"
+     sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -197,14 +197,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36682606px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3836-1-7)"
-       x="202.02403"
+       x="199.99606"
        y="736.31476"
        id="text4183"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4185"
-         x="202.02403"
+         x="199.99606"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 17 : The Title here</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 17 : Un Nouveau Départ</tspan></text>
   </g>
 </svg>
