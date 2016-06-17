@@ -247,7 +247,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1998.2058"
          y="1048.8345"
-         id="tspan4355">comestible? c'est connaître des</tspan><tspan
+         id="tspan4355">comestible ? C'est connaître des</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1998.2058"
@@ -257,7 +257,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="2006.116"
          y="1161.3345"
-         id="tspan4393">la faim&quot; </tspan></text>
+         id="tspan4393">la faim.&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -269,7 +269,7 @@
          style="font-size:45px"
          x="943.64618"
          y="2551.5776"
-         id="tspan4227">...m'en a t'elle</tspan><tspan
+         id="tspan4227">M'en a-t-elle</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="943.64618"
@@ -279,7 +279,7 @@
          style="font-size:45px"
          x="943.64618"
          y="2664.0776"
-         id="tspan4231">qu'une seule?</tspan></text>
+         id="tspan4231">qu'une seule ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -296,12 +296,12 @@
          style="font-size:45px"
          x="924.18604"
          y="1828.9077"
-         id="tspan4198">suis à bout de </tspan><tspan
+         id="tspan4198">suis à bout de</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="916.27588"
          y="1885.1577"
-         id="tspan4202">forces ...</tspan></text>
+         id="tspan4202">forces...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -323,7 +323,7 @@
          style="font-size:45px"
          x="1002.8398"
          y="2103.675"
-         id="tspan4202-4">mangé</tspan></text>
+         id="tspan4202-4">mangé.</tspan></text>
     <path
        style="fill:#ffffff;stroke:none"
        d="m 895.82485,1600.0624 c 21.55989,22.9922 18.24044,32.1943 13.58315,42.3773 -4.65713,10.1831 -10.03352,18.9288 -7.28323,25.6442 2.75014,6.7151 9.98323,13.2537 16.01769,17.3966 6.03443,4.143 -1.01568,10.4266 -2.75149,17.9213 -1.73575,7.4949 3.84933,48.8396 3.84933,48.8396 0,0 19.75368,-24.4746 23.31609,-33.8003 3.56256,-9.3255 4.913,-12.7174 5.29836,-16.8203 0.38522,-4.103 -0.16581,-14.3412 -5.22225,-20.1838 -5.05644,-5.8427 -12.67159,-8.8811 -17.49774,-12.4365 -4.82629,-3.5553 -2.3259,-12.0013 -0.46383,-20.4619 1.86215,-8.4605 1.83118,-14.9098 -5.9524,-27.296 -6.67188,-10.6173 -22.89368,-21.1802 -22.89368,-21.1802 z"
@@ -359,6 +359,6 @@
          y="2497.8276"
          x="673.64618"
          style="font-size:45px"
-         sodipodi:role="line">potions ?...</tspan></text>
+         sodipodi:role="line">potions ?...</tspan></text>
   </g>
 </svg>
