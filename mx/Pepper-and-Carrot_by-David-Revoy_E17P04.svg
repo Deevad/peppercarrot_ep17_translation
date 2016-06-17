@@ -94,30 +94,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2287013"
-     inkscape:cx="1226.873"
-     inkscape:cy="1178.3474"
-     inkscape:window-x="1920"
+     inkscape:zoom="0.4574026"
+     inkscape:cx="1179.5265"
+     inkscape:cy="763.66956"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep17_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,7 +125,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 260.95377,269.36222 c -5.64522,-67.09231 7.72563,-148.83869 187.09155,-129.45117 171.01309,18.48466 160.33207,43.89555 162.14283,129.07731 1.9078,89.747 -67.88979,133.20531 -190.4229,124.60199 -71.80687,-5.04171 -143.36082,-9.81446 -158.81148,-124.22813 z"
+       d="m 243.57372,269.94669 c -6.27949,-57.41406 8.59365,-127.36831 208.11228,-110.77749 190.22733,15.8182 178.34624,37.5635 180.36045,110.45756 2.12214,76.80076 -75.51758,113.99008 -211.81793,106.62781 -79.87476,-4.31443 -159.46818,-8.39869 -176.6548,-106.30788 z"
        id="path5026"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -136,7 +136,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 678.73197,2110.3841 c 38.05681,-42.063 340.83953,-74.104 441.12743,21.8854 100.2879,95.9894 43.3314,212.2953 -19.1531,243.6979 -62.4844,31.4028 -308.8046,45.7808 -388.36779,11.9321 -79.56333,-33.8488 -103.97915,-76.6858 -102.93035,-167.5525 0.42807,-37.0864 31.26682,-67.8997 69.32381,-109.9629 z"
+       d="m 705.08575,2122.5125 c 34.52303,-38.7971 309.19075,-68.3501 400.16625,20.186 90.9756,88.5362 39.3079,195.8114 -17.3746,224.7757 -56.6824,28.9645 -280.13036,42.2261 -352.30566,11.0056 -72.17544,-31.2206 -94.32411,-70.7314 -93.3727,-154.5427 0.38833,-34.2067 28.36352,-62.6275 62.88671,-101.4246 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -179,7 +179,9 @@
          y="1584.5073"
          style="font-size:70px;fill:#000000;stroke:#000000;stroke-width:0.99339968;stroke-miterlimit:4;stroke-dasharray:none"><tspan
            style="font-size:93.14950562px;fill:#000000;stroke:#000000;stroke-width:0.99339968;stroke-miterlimit:4;stroke-dasharray:none"
-           id="tspan4315">Kaïe !</tspan><tspan
+           id="tspan4315"><tspan
+   style="font-size:114.56319427px"
+   id="tspan4239">¡</tspan>¡Ayy!</tspan><tspan
            style="font-size:114.73223114px;fill:#000000;stroke:#000000;stroke-width:0.99339968;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan4313">!</tspan></tspan></text>
     <text
@@ -196,7 +198,9 @@
          y="1584.5073"
          style="font-size:70px;fill:#000000"><tspan
            style="font-size:93.14950562px"
-           id="tspan4315-2">Kaïe !</tspan><tspan
+           id="tspan4315-2"><tspan
+   style="font-size:115.53659821px"
+   id="tspan4237">¡</tspan>¡Ayy!</tspan><tspan
            style="font-size:114.73223114px"
            id="tspan4313-2">!</tspan></tspan></text>
     <path
@@ -219,43 +223,43 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="443.67896"
-       y="229.23553"
+       x="437.12018"
+       y="211.74547"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="451.58911"
-         y="229.23553"
-         id="tspan4252">Ne t'inquiète</tspan><tspan
+         x="437.12018"
+         y="211.74547"
+         id="tspan4150">Carrot,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="443.67896"
-         y="285.48553"
-         id="tspan4144">surtout pas,</tspan><tspan
+         x="437.12018"
+         y="267.99548"
+         id="tspan4189">quedate trnquilo,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="443.67896"
-         y="341.73553"
-         id="tspan4150">Carrot...</tspan></text>
+         x="437.12018"
+         y="324.24548"
+         id="tspan4191">no te inquietes...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03227997px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="728.10358"
-       y="1106.103"
+       x="780.43298"
+       y="1092.9502"
        id="text4246-1"
        sodipodi:linespacing="125%"
        transform="scale(1.00269,0.99731722)"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-         x="736.03503"
-         y="1106.103"
-         id="tspan4218">&quot;Un bon regard noir évite</tspan><tspan
+         x="780.43298"
+         y="1092.9502"
+         id="tspan4275">&quot;¡Un movimiento correcto siempre</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-         x="728.10358"
-         y="1162.5044"
-         id="tspan4275">bien des sors inutiles !...</tspan></text>
+         x="780.43298"
+         y="1149.3516"
+         id="tspan4195">   evitara desperdiciar hechizos! ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -267,22 +271,22 @@
          style="font-size:45px"
          x="896.95361"
          y="2167.5105"
-         id="tspan4258">Moi, j'aurai bien sûr</tspan><tspan
+         id="tspan4269">Claro, preferiría</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="904.86377"
+         x="896.95361"
          y="2223.7605"
-         id="tspan4267">préféré apprendre</tspan><tspan
+         id="tspan4223">aprender hechizos</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="904.86377"
+         x="896.95361"
          y="2280.0105"
-         id="tspan4260">quelques bonnes sortes</tspan><tspan
+         id="tspan4227">de ataque inmediato;</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="896.95361"
          y="2336.2605"
-         id="tspan4269">d'attaque ; mais bon...</tspan></text>
+         id="tspan4231">sería mucho mejor...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -294,39 +298,39 @@
          style="font-size:45px"
          x="2070.5322"
          y="2822.4509"
-         id="tspan4269-3">Zut...</tspan><tspan
+         id="tspan4269-3">¡Rayos!...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2070.5322"
          y="2878.7009"
-         id="tspan4317">plus de balais</tspan><tspan
+         id="tspan4321">Menos plática</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2070.5322"
          y="2934.9509"
-         id="tspan4321">ni d'affaires.</tspan></text>
+         id="tspan4243">y más acción</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2213.0249"
-       y="3015.6958"
+       x="2204.2798"
+       y="3017.8821"
        id="text4246-6-2-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2213.0249"
-         y="3015.6958"
-         id="tspan4321-3">La route</tspan><tspan
+         x="2212.1899"
+         y="3017.8821"
+         id="tspan4360">que el </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2213.0249"
-         y="3071.9458"
-         id="tspan4356">va être</tspan><tspan
+         x="2204.2798"
+         y="3074.1321"
+         id="tspan4252">camino está</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2213.0249"
-         y="3128.1958"
-         id="tspan4360">longue...</tspan></text>
+         x="2204.2798"
+         y="3130.3821"
+         id="tspan4256">largo...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03227997px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -339,6 +343,6 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="784.79651"
          y="1212.2812"
-         id="tspan4275-5">...Mate-les. Domine-les !&quot;</tspan></text>
+         id="tspan4275-5">...Pero-juntalos, Y-dominaras! &quot;</tspan></text>
   </g>
 </svg>

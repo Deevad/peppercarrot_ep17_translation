@@ -168,16 +168,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1188"
+     inkscape:window-height="562"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1356.512"
-     inkscape:cy="2601.9305"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.56568544"
+     inkscape:cx="1312.3828"
+     inkscape:cy="2999.2799"
+     inkscape:window-x="0"
+     inkscape:window-y="470"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -185,13 +185,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep17_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -200,7 +200,7 @@
      style="opacity:0.8">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1130.6126,431.11963 c 25.2946,-29.55472 361.508,-49.07664 431.9268,-2.46023 79.5372,52.65267 22.7067,165.2971 -40.1774,188.87154 -59.4421,22.2841 -217.2262,37.87117 -295.0815,15.37822 -77.8555,-22.49294 -138.3874,-52.895 -141.8722,-120.05427 -1.4225,-27.41037 19.9097,-52.18054 45.2043,-81.73526 z"
+       d="m 1098.0406,424.12306 c 27.329,-31.34756 390.5839,-52.0537 466.6665,-2.60947 85.9343,55.84668 24.5329,175.32432 -43.4088,200.32883 -64.2231,23.6359 -234.6977,40.16849 -318.8148,16.3111 -84.1175,-23.85741 -149.5179,-56.10372 -153.2829,-127.337 -1.537,-29.07312 21.5109,-55.34589 48.84,-86.69346 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -212,7 +212,7 @@
        sodipodi:nodetypes="cccccccccccccccccccccc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 679.6664,242.64665 c 35.26346,-84.8638 130.06908,-77.07536 202.17519,-81.27277 91.22594,-5.08826 226.93311,-0.22193 271.05321,40.54598 70.3234,70.92378 -30.4807,111.27859 -100.7777,128.16022 -112.3144,23.73706 -228.12197,12.79275 -339.38482,-12.63101 -20.68026,-6.21182 -44.14324,-45.67665 -33.06588,-74.80242 z"
+       d="m 679.311,242.64665 c 30.85483,-84.8638 113.80787,-77.07536 176.89929,-81.27277 79.82089,-5.08826 198.56201,-0.22193 237.16621,40.54598 61.5316,70.92378 -26.67,111.27859 -88.1785,128.16022 -98.27288,23.73706 -199.60221,12.79275 -296.955,-12.63101 -18.09482,-6.21182 -38.62447,-45.67665 -28.932,-74.80242 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -233,7 +233,7 @@
          x="1240.6473"
          y="3388.5505"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-         id="tspan4169">Licence : Creative Commons Attribution 4.0, Logiciels: Krita, Gmic, Inkscape sur Ubuntu</tspan></text>
+         id="tspan4169">Licencia: Creative Commons Attribution 4.0, Software: Krita, Blender, Gmic, Inkscape on Ubuntu. (Archlinux/Plasma5 en la traducción por RJ Quiralta)</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
@@ -245,7 +245,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
          x="1242.353"
          y="3350.7795"
-         id="tspan4252-9-9">Basé sur l'univers d'Hereva créé par David Revoy avec les contributions de Craig Maloney. Corrections de Willem Sonke, Moini, Hali, CGand et Alex Gryson.</tspan></text>
+         id="tspan4252-9-9">Basado en &quot;El Universo De Areva&quot; credo por David Revoy con contribuciones hechas por Craig Maloney. Correcciones de Willem Sonke, Moini, Hali, CGand y Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534)"
@@ -270,7 +270,7 @@
          style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
          x="1240.0964"
          y="3314.6868"
-         id="tspan4252-9">06/2016 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy</tspan></text>
+         id="tspan4252-9">04/2016 - www.peppercarrot.com - Creado é Ilustrado por : David Revoy</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -279,42 +279,46 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="938.44354"
-       y="243.56387"
+       x="893.44354"
+       y="238.56387"
        id="text4246-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="946.3537"
-         y="243.56387"
-         id="tspan5570">Tu connais à présent</tspan><tspan
+         x="893.44354"
+         y="238.56387"
+         id="tspan4320">ahora ya sabes</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="938.44354"
-         y="299.81387"
-         id="tspan4320">toute l'histoire.</tspan></text>
+         x="893.44354"
+         y="294.81387"
+         id="tspan4184">toda la historia.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1343.17"
-       y="480.15073"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1330.4833"
+       y="460.15073"
        id="text4246-0-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
-         x="1343.17"
-         y="480.15073"
-         id="tspan4166-2">...et tu me dis que tu</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1330.4833"
+         y="460.15073"
+         id="tspan4191">...y me dices que</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
-         x="1343.17"
-         y="536.40076"
-         id="tspan4211">es ici car elles ne t'ont</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1330.4833"
+         y="521.05383"
+         id="tspan4185">estás <tspan
+   style="font-size:50px;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4189">aquí</tspan>, ¿Por que</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
-         x="1343.17"
-         y="592.65076"
-         id="tspan4213">rien appris ?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1330.4833"
+         y="578.90076"
+         id="tspan4193">no has aprendido <tspan
+   style="stroke:#000000;stroke-opacity:1"
+   id="tspan4186">nada</tspan>?</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 443.67983,204.1747 c -1.77862,-12.24058 30.23664,-76.70743 138.73301,-68.54704 108.49635,8.16038 129.83992,54.6744 128.95057,70.99517 -0.88935,16.32069 -27.56868,41.61784 -43.5764,45.69803 -16.00763,4.08019 -57.80541,13.87256 -84.48492,10.60852 -26.67932,-3.26421 -108.49627,-19.5849 -124.50399,-34.27361 -16.00763,-14.68862 -13.33966,-21.21695 -15.11827,-24.48107 z"
@@ -331,6 +335,6 @@
          style="font-size:45px"
          x="571.54419"
          y="211.26059"
-         id="tspan4320-0">...et voilà.</tspan></text>
+         id="tspan4320-0">...y listo</tspan></text>
   </g>
 </svg>

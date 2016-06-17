@@ -39,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34782609"
-     inkscape:cx="790.67014"
-     inkscape:cy="1649.1638"
-     inkscape:window-x="1920"
+     inkscape:zoom="0.49190037"
+     inkscape:cx="1417.7429"
+     inkscape:cy="846.26948"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep17_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -83,12 +83,12 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 907.23639,2592.0266 c -23.62035,-34.1403 -42.50363,-36.5905 -55.96461,-39.6154 -1.87547,3.3952 -6.49852,8.7941 -6.49852,8.7941 0,0 -25.97688,-8.0908 -36.79234,-8.3139 -10.8154,-0.2233 -11.06323,11.4471 -11.06323,11.4471 0,0 50.13669,16.8309 59.91961,23.2139 4.71046,-9.5178 8.40315,-13.5624 8.49056,-17.6813 8.12621,-0.5191 33.14349,10.2991 41.90853,22.1555 z"
+       d="m 921.46691,2598.1254 c -23.62035,-34.1403 -42.50363,-36.5905 -55.96461,-39.6154 -1.87547,3.3952 -6.49852,8.7941 -6.49852,8.7941 0,0 -25.97688,-8.0908 -36.79234,-8.3139 -10.8154,-0.2233 -11.06323,11.4471 -11.06323,11.4471 0,0 50.13669,16.8309 59.91961,23.2139 4.71046,-9.5178 8.40315,-13.5624 8.49056,-17.6813 8.12621,-0.5191 33.14349,10.2991 41.90853,22.1555 z"
        id="path4456"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 577.93323,2484.2098 c 24.11977,-45.323 155.30944,-41.4539 198.95869,-21.8178 43.64904,19.636 59.89059,53.4535 61.92076,65.4534 2.03007,11.9997 -3.04526,67.6351 -25.37741,78.5441 -22.33207,10.9089 -86.28301,16.3633 -108.61516,16.3633 -22.33207,0 -93.62104,-6.9434 -111.66061,-22.9088 -17.25664,-15.2724 -39.34615,-70.3114 -15.22627,-115.6342 z"
+       d="m 555.12799,2484.2098 c 27.72623,-45.323 178.53179,-41.4539 228.70762,-21.8178 50.17557,19.636 68.84562,53.4535 71.17934,65.4534 2.33362,11.9997 -3.50059,67.6351 -29.17192,78.5441 -25.67123,10.9089 -99.18431,16.3633 -124.85563,16.3633 -25.67124,0 -107.61956,-6.9434 -128.35646,-22.9088 -19.83691,-15.2724 -45.22932,-70.3114 -17.50295,-115.6342 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -125,17 +125,17 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1413.4856"
          y="1404.2015"
-         id="tspan5929">&quot;Une vraie sorcière de Chaosah n'a</tspan><tspan
+         id="tspan5929">&quot;Una verdadera hechizera de Chaosah</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1413.4856"
          y="1460.4515"
-         id="tspan4176">besoin ni de cartes ni de boussoles</tspan><tspan
+         id="tspan4329">no ocupa ni de mapas ni de brújulas</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1413.4856"
          y="1516.7015"
-         id="tspan4329">sous un ciel étoilé.&quot;</tspan></text>
+         id="tspan4159">mientras tenga las estrellas.&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.30392742px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -148,29 +148,29 @@
          style="font-size:46.13972855px"
          x="462.22278"
          y="2501.3633"
-         id="tspan4406-1">Courage</tspan><tspan
+         id="tspan4406-1">¡Ánimo </tspan><tspan
          sodipodi:role="line"
          style="font-size:46.13972855px"
          x="454.11227"
          y="2559.0378"
-         id="tspan4487">Carrot !</tspan></text>
+         id="tspan4487">Carrot!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="710.54004"
-       y="2524.0591"
+       x="700.37537"
+       y="2515.9272"
        id="text4246-2-5-8-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="718.4502"
-         y="2524.0591"
-         id="tspan4485-9">Regarde,</tspan><tspan
+         x="700.37537"
+         y="2515.9272"
+         id="tspan4485-9">¡Mira, ya</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="710.54004"
-         y="2580.3091"
-         id="tspan4487-4">on y est !</tspan></text>
+         x="700.37537"
+         y="2572.1772"
+         id="tspan4487-4">casi llegamos!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -182,16 +182,16 @@
          style="font-size:45px"
          x="2067.9636"
          y="1638.4164"
-         id="tspan4238-2">... moi j'aurai</tspan><tspan
+         id="tspan4168">... ¡Hubiera preferido</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2067.9636"
          y="1694.6664"
-         id="tspan4406-9">préféré un vrai cours</tspan><tspan
+         id="tspan4175">una predicción</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2067.9636"
          y="1750.9164"
-         id="tspan4300">de divination !</tspan></text>
+         id="tspan4177">mucho mas correcta!</tspan></text>
   </g>
 </svg>
