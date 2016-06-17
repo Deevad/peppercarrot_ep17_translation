@@ -44,12 +44,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34782609"
-     inkscape:cx="1477.5511"
+     inkscape:cx="1483.3011"
      inkscape:cy="1149.6796"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep17_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -71,7 +71,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1177.5412,1451.4835 c -24.0782,-91.5539 -163.7199,-114.3577 -126.2718,-117.2114 29.0423,-2.2134 265.3799,-2.2635 344.8715,-4.0593 79.4917,-1.796 284.2372,2.6477 351.2283,7.1499 71.7566,4.8223 93.2082,48.229 98.5062,97.486 6.954,64.6552 -24.3761,77.8073 -74.9819,99.6199 -51.3426,22.13 -315.74,30.52 -333.8645,28.7848 -18.1243,-1.7356 -393.7865,5.2809 -409.696,-0.7946 -15.9097,-6.0755 156.6168,-63.9311 150.2082,-110.9753 z"
+       d="m 1158.4637,1451.4835 c -21.0411,-91.5539 -143.0689,-114.3577 -110.3443,-117.2114 25.379,-2.2134 231.9058,-2.2635 301.3707,-4.0593 69.4649,-1.796 248.3846,2.6477 306.9257,7.1499 62.7054,4.8223 81.4512,48.229 86.081,97.486 6.0768,64.6552 -21.3014,77.8073 -65.524,99.6199 -44.8664,22.13 -275.9138,30.52 -291.7521,28.7848 -15.8382,-1.7356 -344.1158,5.2809 -358.0185,-0.7946 -13.9029,-6.0755 136.8618,-63.9311 131.2615,-110.9753 z"
        id="path3278-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -117,25 +117,25 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="1413.4856"
+       x="1377.4856"
        y="1404.2015"
        id="text4246-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-         x="1413.4856"
+         x="1377.4856"
          y="1404.2015"
-         id="tspan4329">&quot;A true Chaosah witch needs</tspan><tspan
+         id="tspan4329">&quot;A true witch of Chaosah needs</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-         x="1413.4856"
+         x="1377.4856"
          y="1460.4515"
-         id="tspan3461">neither compasses nor maps</tspan><tspan
+         id="tspan3463">neither compass nor map.</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-         x="1413.4856"
+         x="1377.4856"
          y="1516.7015"
-         id="tspan3463">under a starry sky&quot;</tspan></text>
+         id="tspan3380">A starry sky will suffice&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12.30392742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
