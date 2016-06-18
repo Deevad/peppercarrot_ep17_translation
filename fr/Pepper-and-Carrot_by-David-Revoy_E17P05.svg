@@ -66,9 +66,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="1390.8164"
-     inkscape:cy="1572.8"
+     inkscape:zoom="0.80454287"
+     inkscape:cx="910.14205"
+     inkscape:cy="779.96816"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -81,11 +81,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -354,7 +354,9 @@
          y="2441.5776"
          x="673.64618"
          style="font-size:45px"
-         sodipodi:role="line">Mais de vraies</tspan><tspan
+         sodipodi:role="line">Mais de <tspan
+   style="-inkscape-font-specification:'Lavi Italic';font-family:Lavi;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4189">vraies</tspan></tspan><tspan
          id="tspan4405"
          y="2497.8276"
          x="673.64618"

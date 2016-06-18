@@ -43,9 +43,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34782609"
-     inkscape:cx="790.67014"
-     inkscape:cy="1649.1638"
+     inkscape:zoom="0.4"
+     inkscape:cx="1476.0121"
+     inkscape:cy="1681.7946"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -187,7 +187,9 @@
          style="font-size:45px"
          x="2067.9636"
          y="1694.6664"
-         id="tspan4406-9">préféré un vrai cours</tspan><tspan
+         id="tspan4406-9">préféré un <tspan
+   style="-inkscape-font-specification:'Lavi Italic';font-family:Lavi;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4157">vrai</tspan> cours</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2067.9636"
