@@ -1,7 +1,10 @@
 # Pepper&Carrot translation project
 # Episode 17: A Fresh Start
 
+[preview render EN version, WIP link](http://www.peppercarrot.com/XYZ/index.php?subfolder=ep17-WIP_en)
+
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
+
 
 ![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E17.png)
 
