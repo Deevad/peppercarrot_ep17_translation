@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P04.svg">
@@ -98,26 +98,26 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4574026"
-     inkscape:cx="1125.0704"
-     inkscape:cy="621.92196"
+     inkscape:zoom="0.26152142"
+     inkscape:cx="465.07669"
+     inkscape:cy="1112.2508"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep17_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -136,7 +136,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 678.73197,2110.3841 c 38.05681,-42.063 340.83953,-74.104 441.12743,21.8854 100.2879,95.9894 43.3314,212.2953 -19.1531,243.6979 -62.4844,31.4028 -308.8046,45.7808 -388.36779,11.9321 -79.56333,-33.8488 -103.97915,-76.6858 -102.93035,-167.5525 0.42807,-37.0864 31.26682,-67.8997 69.32381,-109.9629 z"
+       d="m 703.83409,2106.3432 c 40.97539,-29.8964 374.21971,-50.9948 448.67561,17.2861 104.5124,95.8446 31.3489,207.1246 -32.4073,239.2778 -63.756,32.1533 -290.78975,30.776 -371.97215,-3.8818 -81.18256,-34.6578 -117.53033,-52.1748 -116.46019,-145.2133 0.43679,-37.9728 31.18865,-77.5723 72.16403,-107.4688 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -148,18 +148,18 @@
        sodipodi:nodetypes="cssccccccsscssccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1890.2517,2910.4532 c -7.4495,-45.9757 12.4158,-168.0983 165.1317,-158.0411 152.7156,10.057 177.5476,67.5265 181.2723,84.7674 3.7248,17.2408 36.0062,114.939 -83.1866,140.8004 -119.1929,25.8612 -225.9696,-1.4369 -263.2174,-67.5267 z"
+       d="m 1898.9197,2910.9757 c -7.6911,-47.377 12.8186,-173.222 170.489,-162.8582 157.67,10.3635 183.3077,69.5847 187.1532,87.3511 3.8456,17.7663 37.1743,118.4424 -85.8854,145.0921 -123.0598,26.6494 -233.3005,-1.4807 -271.7568,-69.585 z"
        id="path3525"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 2082.2906,2977.9423 c 33.2176,-41.062 163.1041,-41.3843 215.4518,-14.8508 52.3474,26.5332 45.6346,63.653 48.0694,79.8679 2.4346,16.2147 -3.6522,91.3922 -30.4349,106.1332 -26.7823,14.7406 -103.4775,22.1109 -130.2601,22.1109 -26.7825,0 -96.6786,-14.1377 -116.7483,-37.0098 -46.4417,-52.9263 -19.2956,-115.1895 13.9221,-156.2514 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2091.1159,2968.2765 c 37.0707,-40.268 169.7054,-30.8169 221.111,0.7654 51.4052,31.5819 41.6981,69.7408 42.9375,86.814 1.2392,17.0731 -10.7545,94.9209 -39.2319,108.2574 -28.477,13.3361 -107.3469,15.2342 -134.691,13.2162 -27.3442,-2.0181 -97.619,-22.0109 -116.3512,-47.3471 -43.3469,-58.6285 -10.8452,-121.4378 26.2256,-161.7059 z"
        id="path3330"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1883.3314,2709.4785 c 2.7209,24.7705 5.5497,40.8568 15.3787,48.006 9.8287,7.1491 13.5006,12.076 26.2212,10.6235 12.7206,-1.4527 17.2198,-9.4615 31.2881,-6.5634 8.0133,1.6508 32.2563,53.4614 28.2024,73.002 -4.054,19.5407 36.5944,3.8257 36.5944,3.8257 0,0 -3.6849,-37.6012 -6.4866,-44.0851 -2.8019,-6.484 -12.5588,-50.5187 -43.0632,-56.9076 -30.5045,-6.3888 -45.8465,20.9009 -59.252,14.5604 -13.4053,-6.3403 -28.036,-24.1475 -28.883,-42.4615 z"
+       d="m 1874.7064,2699.416 c 2.7209,24.7705 5.5497,40.8568 15.3787,48.006 9.8287,7.1491 13.5006,12.076 26.2212,10.6235 12.7206,-1.4527 17.2198,-9.4615 31.2881,-6.5634 8.0133,1.6508 32.2563,53.4614 28.2024,73.002 -4.054,19.5407 36.5944,3.8257 36.5944,3.8257 0,0 -3.6849,-37.6012 -6.4866,-44.0851 -2.8019,-6.484 -12.5588,-50.5187 -43.0632,-56.9076 -30.5045,-6.3888 -45.8465,20.9009 -59.252,14.5604 -13.4053,-6.3403 -28.036,-24.1475 -28.883,-42.4615 z"
        id="path3137"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssccssc" />
@@ -201,7 +201,7 @@
            id="tspan4313-2">!</tspan></tspan></text>
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 429.77059,1139.9266 c -17.34473,-110.6201 78.84832,-131.6689 118.20524,-134.0803 30.52239,-1.87 117.01792,1.865 200.19785,1.865 83.18023,0 289.74732,6.6053 324.67022,7.7292 115.3218,3.7111 131.4782,54.1029 134.1613,100.4771 2.6833,46.3741 -12.5867,82.9637 -60.8847,111.3034 -48.2981,28.3399 -349.64876,35.5478 -368.43137,32.9714 -18.78241,-2.5764 -268.32236,-20.6105 -284.42162,-28.3397 -16.09934,-7.729 -60.81367,-35.2467 -63.49692,-91.9261 z"
+       d="m 429.77059,1141.0136 c -17.34473,-110.6201 78.84832,-131.6689 118.20524,-134.0803 30.52239,-1.87 117.01792,1.865 200.19785,1.865 83.18023,0 289.74732,6.6053 324.67022,7.7292 115.3218,3.7111 131.4782,54.1029 134.1613,100.4771 2.6833,46.3741 -12.5867,82.9637 -60.8847,111.3034 -48.2981,28.3399 -349.64876,35.5478 -368.43137,32.9714 -18.78241,-2.5764 -268.32236,-20.6105 -284.42162,-28.3397 -16.09934,-7.729 -60.81367,-35.2467 -63.49692,-91.9261 z"
        id="path3278"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />
@@ -240,75 +240,75 @@
          id="tspan4150">Carrot...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12.03227997px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="698.18414"
-       y="1070.0063"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03227997px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="762.31848"
+       y="1070.1432"
        id="text4246-1"
        sodipodi:linespacing="125%"
        transform="scale(1.00269,0.99731722)"><tspan
          sodipodi:role="line"
-         style="font-size:45.12104797px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-         x="698.18414"
-         y="1070.0063"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+         x="762.31848"
+         y="1070.1432"
          id="tspan3400">&quot;A good dark stare is worth</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45.12104797px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-         x="698.18414"
-         y="1126.4077"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+         x="762.31848"
+         y="1126.5446"
          id="tspan3404">a dozen useless curses! ...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="896.95361"
-       y="2167.5105"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="926.40234"
+       y="2169.3088"
        id="text4246-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="896.95361"
-         y="2167.5105"
+         x="926.40234"
+         y="2169.3088"
          id="tspan4269">Personally, I would've</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="896.95361"
-         y="2223.7605"
+         x="926.40234"
+         y="2225.5588"
          id="tspan3419">preferred to learn a few</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="896.95361"
-         y="2280.0105"
+         x="926.40234"
+         y="2281.8088"
          id="tspan3425">good attack spells;</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="896.95361"
-         y="2336.2605"
+         x="926.40234"
+         y="2338.0588"
          id="tspan3427">but anyway...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="2070.5322"
-       y="2822.4509"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2084.9072"
+       y="2821.0134"
        id="text4246-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2070.5322"
-         y="2822.4509"
+         x="2084.9072"
+         y="2821.0134"
          id="tspan4269-3">shoot...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2070.5322"
-         y="2878.7009"
+         x="2084.9072"
+         y="2877.2634"
          id="tspan4317">no more broom</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2070.5322"
-         y="2934.9509"
+         x="2084.9072"
+         y="2933.5134"
          id="tspan3431">or equipment,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2070.5322"
-         y="2991.2009"
+         x="2084.9072"
+         y="2989.7634"
          id="tspan4321" /></text>
     <text
        xml:space="preserve"
@@ -334,16 +334,29 @@
          id="tspan3446">long trip...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12.03227997px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="814.71594"
-       y="1176.1846"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03227997px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="746.70569"
+       y="1181.7107"
        id="text4246-1-5"
        sodipodi:linespacing="125%"
        transform="scale(1.00269,0.99731722)"><tspan
          sodipodi:role="line"
-         style="font-size:45.12104797px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-         x="814.71594"
-         y="1176.1846"
-         id="tspan3406">...Stare them down. Dominate them! &quot;</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="746.70569"
+         y="1181.7107"
+         id="tspan3406">...Stare them down.</tspan></text>
+    <text
+       transform="scale(1.00269,0.99731722)"
+       sodipodi:linespacing="125%"
+       id="text4188"
+       y="1240.1174"
+       x="769.45703"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.03227997px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4190"
+         y="1240.1174"
+         x="769.45703"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:role="line">Dominate them! &quot;</tspan></text>
   </g>
 </svg>
