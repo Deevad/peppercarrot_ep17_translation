@@ -98,13 +98,13 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2287013"
-     inkscape:cx="1226.873"
-     inkscape:cy="1178.3474"
+     inkscape:zoom="0.529"
+     inkscape:cx="807.26237"
+     inkscape:cy="1201.4885"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -270,14 +270,14 @@
          id="tspan4258">Moi, j'aurai bien sûr</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="904.86377"
+         x="896.95361"
          y="2223.7605"
          id="tspan4267">préféré apprendre</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="904.86377"
+         x="896.95361"
          y="2280.0105"
-         id="tspan4260">quelques bonnes sortes</tspan><tspan
+         id="tspan4260">quelques bons sorts</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="896.95361"
