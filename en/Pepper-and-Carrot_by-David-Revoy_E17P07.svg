@@ -172,13 +172,13 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52900001"
-     inkscape:cx="1055.896"
-     inkscape:cy="116.50357"
+     inkscape:zoom="0.34782609"
+     inkscape:cx="1055.0796"
+     inkscape:cy="2404.6248"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -187,11 +187,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -314,7 +314,11 @@
          style="font-size:45px"
          x="1277.17"
          y="590.65076"
-         id="tspan3496">taught you anything?</tspan></text>
+         id="tspan3496">taught you <tspan
+   style="-inkscape-font-specification:'Lavi Italic';font-family:Lavi;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4183">anythin<tspan
+   style="letter-spacing:6px"
+   id="tspan4187">g</tspan></tspan>?</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 428.88958,198.34636 c -1.8768,-14.11879 31.61228,-83.63219 146.39103,-79.06505 142.46552,5.66882 137.00705,63.06377 136.06861,81.88883 -0.93845,18.82498 -29.09047,48.00378 -45.98181,52.71004 -16.89125,4.70627 -60.99625,16.0012 -89.14846,12.23632 -28.15201,-3.76508 -108.88919,-7.61522 -125.78054,-24.5578 -16.89124,-16.94247 -19.67204,-39.44736 -21.54883,-43.21234 z"

@@ -173,12 +173,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1356.512"
-     inkscape:cy="2601.9305"
+     inkscape:cx="1031.224"
+     inkscape:cy="2957.7838"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -187,11 +187,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -314,7 +314,9 @@
          style="font-size:45px"
          x="1343.17"
          y="592.65076"
-         id="tspan4213">rien appris ?</tspan></text>
+         id="tspan4213"><tspan
+   style="-inkscape-font-specification:'Lavi Italic';font-family:Lavi;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4182">rien </tspan>appris ?</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 443.67983,204.1747 c -1.77862,-12.24058 30.23664,-76.70743 138.73301,-68.54704 108.49635,8.16038 129.83992,54.6744 128.95057,70.99517 -0.88935,16.32069 -27.56868,41.61784 -43.5764,45.69803 -16.00763,4.08019 -57.80541,13.87256 -84.48492,10.60852 -26.67932,-3.26421 -108.49627,-19.5849 -124.50399,-34.27361 -16.00763,-14.68862 -13.33966,-21.21695 -15.11827,-24.48107 z"
