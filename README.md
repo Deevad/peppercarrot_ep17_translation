@@ -19,6 +19,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * Mexicano: RJ Quiralta
+* Swedish: Mikael Olofsson
 
 ## Artwork:
 
