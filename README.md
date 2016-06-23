@@ -17,10 +17,15 @@ License
 ## Translators and correctors:
 
 * English: Alex Gryson
-* French: David Revoy
+
+* French: David Revoy, corrections: Remi Rampin
+
 * Mexicano: RJ Quiralta
+
 * Russian: Denis "uncle Night" Prisukhin
+
 * Swedish: Mikael Olofsson
+
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 ## Artwork:
