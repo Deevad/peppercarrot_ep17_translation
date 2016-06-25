@@ -20,6 +20,8 @@ License
 
 * French: David Revoy, corrections: Remi Rampin
 
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
+
 * Lojban: Gleki Arxokuna
 
 * Mexicano: RJ Quiralta
