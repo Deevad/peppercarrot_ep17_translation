@@ -168,16 +168,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1188"
-     inkscape:window-height="562"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.56568544"
-     inkscape:cx="1312.3828"
-     inkscape:cy="2999.2799"
+     inkscape:cx="1259.3498"
+     inkscape:cy="443.08895"
      inkscape:window-x="0"
-     inkscape:window-y="470"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -187,11 +187,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep17_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -212,7 +212,7 @@
        sodipodi:nodetypes="cccccccccccccccccccccc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 679.311,242.64665 c 30.85483,-84.8638 113.80787,-77.07536 176.89929,-81.27277 79.82089,-5.08826 198.56201,-0.22193 237.16621,40.54598 61.5316,70.92378 -26.67,111.27859 -88.1785,128.16022 -98.27288,23.73706 -199.60221,12.79275 -296.955,-12.63101 -18.09482,-6.21182 -38.62447,-45.67665 -28.932,-74.80242 z"
+       d="m 679.17027,246.57401 c 29.1091,-72.60093 107.36876,-65.93792 166.89054,-69.52881 75.30472,-4.353 187.32759,-0.18985 223.74759,34.68706 58.0503,60.67526 -25.161,95.19877 -83.18942,109.641 -92.71272,20.30704 -188.30896,10.94419 -280.15365,-10.80582 -17.07103,-5.31421 -36.43914,-39.07635 -27.29506,-63.99343 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -279,18 +279,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="893.44354"
+       x="877.53363"
        y="238.56387"
        id="text4246-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="893.44354"
+         x="877.53363"
          y="238.56387"
          id="tspan4320">ahora ya sabes</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="893.44354"
+         x="877.53363"
          y="294.81387"
          id="tspan4184">toda la historia.</tspan></text>
     <text
@@ -335,6 +335,6 @@
          style="font-size:45px"
          x="571.54419"
          y="211.26059"
-         id="tspan4320-0">...y listo</tspan></text>
+         id="tspan4320-0">...y así fue,</tspan></text>
   </g>
 </svg>
