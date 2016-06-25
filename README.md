@@ -20,6 +20,8 @@ License
 
 * French: David Revoy, corrections: Remi Rampin
 
+* Lojban: Gleki Arxokuna
+
 * Mexicano: RJ Quiralta
 
 * Russian: Denis "uncle Night" Prisukhin
