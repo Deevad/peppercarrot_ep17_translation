@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190037"
-     inkscape:cx="1417.7429"
-     inkscape:cy="846.26948"
+     inkscape:cx="1035.5517"
+     inkscape:cy="683.63492"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep17_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -100,7 +100,7 @@
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1804.8627,1671.6902 c 0.6878,-23.1273 48.2085,-127.4206 267.251,-110.6658 219.0425,16.755 256.4278,48.0976 257.4848,132.7347 0.4187,33.5321 -55.6581,85.4495 -87.9758,93.8269 -32.318,8.3775 -99.0815,21.432 -193.6347,21.7813 -93.5992,0.3458 -183.1579,-22.6096 -215.4756,-52.7683 -32.3178,-30.1587 -28.3375,-64.1721 -27.6497,-84.9088 z"
+       d="m 1819.0692,1670.2716 c 0.6559,-21.9996 45.9695,-121.2076 254.8387,-105.2697 208.8692,15.938 244.5181,45.7524 245.5261,126.2627 0.3992,31.8971 -53.0731,81.2829 -83.8898,89.2519 -30.8171,7.969 -94.4798,20.387 -184.6415,20.7193 -89.252,0.3289 -174.6513,-21.5073 -205.468,-50.1954 -30.8168,-28.6882 -27.0213,-61.0431 -26.3655,-80.7688 z"
        id="path3365"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -174,24 +174,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2067.9636"
-       y="1638.4164"
+       x="2063.8977"
+       y="1642.4823"
        id="text4246-2-5-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2067.9636"
-         y="1638.4164"
+         x="2063.8977"
+         y="1642.4823"
          id="tspan4168">... ¡Hubiera preferido</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2067.9636"
-         y="1694.6664"
-         id="tspan4175">una predicción</tspan><tspan
+         x="2063.8977"
+         y="1698.7323"
+         id="tspan4160">aprender a ser</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2067.9636"
-         y="1750.9164"
-         id="tspan4177">mucho mas correcta!</tspan></text>
+         x="2063.8977"
+         y="1754.9823"
+         id="tspan4164">toda una adivina!</tspan></text>
   </g>
 </svg>
