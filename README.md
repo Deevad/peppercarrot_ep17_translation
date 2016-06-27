@@ -22,6 +22,8 @@ License
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
+* Japanese: guruguru
+
 * Lojban: Gleki Arxokuna
 
 * Mexicano: RJ Quiralta
