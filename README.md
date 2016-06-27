@@ -15,6 +15,7 @@ License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
+* Chinese: Ran Zhuang
 
 * English: Alex Gryson
 
