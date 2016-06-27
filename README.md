@@ -17,6 +17,8 @@ License
 ## Translators and correctors:
 * Chinese: Ran Zhuang
 
+* Dutch: Willem Sonke & Midgard
+
 * English: Alex Gryson
 
 * French: David Revoy, corrections: Remi Rampin
