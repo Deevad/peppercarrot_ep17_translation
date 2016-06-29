@@ -37,6 +37,8 @@ License
 
 * Ukrainian: Denis "uncle Night" Prisukhin
 
+* German: Philipp Hemmer
+
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
