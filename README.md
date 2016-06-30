@@ -23,6 +23,8 @@ License
 
 * French: David Revoy, corrections: Remi Rampin
 
+* German: Philipp Hemmer
+
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
 * Japanese: guruguru
@@ -33,11 +35,12 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 * Swedish: Mikael Olofsson
 
 * Ukrainian: Denis "uncle Night" Prisukhin
 
-* German: Philipp Hemmer
 
 ## Artwork:
 
