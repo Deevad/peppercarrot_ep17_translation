@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P06.svg">
@@ -43,9 +43,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26805595"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
+     inkscape:zoom="0.6200297"
+     inkscape:cx="589.20307"
+     inkscape:cy="1347.2742"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep17_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -77,7 +77,7 @@
        sodipodi:nodetypes="csssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 214.92459,2448.5057 c 2.59912,-57.048 47.06668,-99.0445 165.00688,-89.032 63.17512,5.3632 134.85807,8.6969 131.78221,92.2637 -3.07593,83.5668 -106.04537,82.0452 -127.25687,84.1281 -21.21154,2.0827 -132.04917,-6.0046 -151.9459,-34.3037 -12.45489,-17.7147 -17.59599,-35.3928 -17.58632,-53.0561 z"
+       d="m 198.79633,2450.9893 c 2.83916,-59.6299 51.41341,-103.5271 180.24567,-93.0614 69.0095,5.6059 147.31255,9.0905 143.95263,96.4393 -3.36,87.3489 -115.83892,85.7584 -139.00936,87.9356 -23.17048,2.1769 -144.24424,-6.2764 -165.97848,-35.8562 -13.60513,-18.5165 -19.22102,-36.9946 -19.21046,-55.4573 z"
        id="path4546-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -139,25 +139,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.30392742px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="356.88937"
-       y="2462.5557"
+       x="353.74341"
+       y="2472.4778"
        id="text4246-2-5-8"
        sodipodi:linespacing="125%"
        transform="scale(1.0253273,0.97529833)"><tspan
          sodipodi:role="line"
          style="font-size:46.13972855px"
-         x="356.88937"
-         y="2462.5557"
+         x="353.74341"
+         y="2472.4778"
          id="tspan4406-1">Upp med</tspan><tspan
          sodipodi:role="line"
          style="font-size:46.13972855px"
-         x="356.88937"
-         y="2520.2302"
+         x="353.74341"
+         y="2530.1523"
          id="tspan4726">hakan</tspan><tspan
          sodipodi:role="line"
          style="font-size:46.13972855px"
-         x="356.88937"
-         y="2577.905"
+         x="353.74341"
+         y="2587.8271"
          id="tspan4487">Carrot !</tspan></text>
     <text
        xml:space="preserve"
