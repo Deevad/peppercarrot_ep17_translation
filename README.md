@@ -15,6 +15,9 @@ License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
+
+* Breton: Stefan Carpentier
+
 * Chinese: Ran Zhuang
 
 * Dutch: Willem Sonke & Midgard
@@ -24,6 +27,8 @@ License
 * French: David Revoy, corrections: Remi Rampin
 
 * German: Philipp Hemmer
+
+* Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
@@ -37,9 +42,13 @@ License
 
 * Slovak: talime
 
+* Spanish: TheFaico
+
 * Swedish: Mikael Olofsson
 
 * Ukrainian: Denis "uncle Night" Prisukhin
+
+* Russian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork:
