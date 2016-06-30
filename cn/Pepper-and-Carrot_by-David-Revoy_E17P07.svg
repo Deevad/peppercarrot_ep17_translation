@@ -173,7 +173,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49"
-     inkscape:cx="1217.9821"
+     inkscape:cx="904.71679"
      inkscape:cy="100.64094"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -185,19 +185,19 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep17_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles"
-     style="opacity:0.8">
+     style="opacity:1">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1108.2707,433.66882 c 26.4946,-32.03552 378.6593,-53.19609 452.419,-2.66674 83.3108,57.07229 23.784,179.17199 -42.0835,204.72525 -62.2623,24.15461 -227.5323,41.05004 -309.0813,16.66905 -81.5493,-24.38098 -144.9531,-57.33496 -148.6032,-130.13152 -1.49,-29.71117 20.8543,-56.56053 47.349,-88.59604 z"
