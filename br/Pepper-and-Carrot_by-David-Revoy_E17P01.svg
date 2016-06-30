@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.526013"
+     inkscape:cx="994.26559"
+     inkscape:cy="808.29612"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="D:\Pepper&amp;Carrot\peppercarrot_ep17_translation-master\peppercarrot_ep17_translation-master\br\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P01.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1854.484,2417.8139 c 5.6688,-58.8046 24.4127,-93.5377 75.7069,-129.28 44.0654,-30.7052 279.3306,-28.1439 345.8179,-16.6931 48.657,8.38 144.7244,32.4751 148.6404,85.3615 3.7214,50.2583 16.0359,159.3093 -24.0872,191.7058 -42.3366,34.184 -301.7939,24.0832 -398.408,13.3469 -129.1346,-14.35 -142.9125,-99.5929 -147.67,-144.4411 z"
+       id="path3021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1781.9829,2275.3363 c 43.0673,8.2854 66.1639,39.6775 70.6387,48.3686 4.4748,8.691 18.2521,35.9003 53.2109,40.6343 34.9589,4.7342 34.6065,23.736 34.6065,23.736 l -43.5145,10.2041 c 0,0 -39.462,-19.6878 -54.101,-39.0809 -14.6389,-19.3932 -22.7941,-50.3705 -31.7823,-59.1151 -8.9881,-8.7446 -15.6524,-19.837 -29.0583,-24.747 z"
+       id="path4018"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccssc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 923.30337,1792.1323 c 38.69968,13.1186 73.68146,21.2748 61.78835,-33.1369 68.50088,73.872 58.67458,23.2797 69.51188,5.5228 40.7262,52.1829 75.7679,44.7464 106.1987,-11.0455 17.2028,80.4772 53.202,41.4854 84.959,29.455 -0.077,22.6314 -8.7485,48.5824 84.9589,34.9778 -26.7933,20.44 -36.7875,38.9958 23.1705,49.7053 -41.6493,16.4344 -64.5226,33.922 -19.3085,55.2281 -24.0197,31.038 -7.9546,49.4837 25.1012,62.5919 -77.3973,1.8152 -58.7583,18.8909 -46.3412,34.9778 -65.8957,-33.0746 -75.1153,-19.8328 -69.5118,5.5228 -30.6707,-14.5452 -53.3402,-48.9242 -108.1297,-3.6818 -16.2947,-15.0152 -31.3151,-33.9796 -67.5808,12.8865 -2.5583,-40.88 -29.073,-39.3422 -67.5811,-16.5684 -10.15674,-38.338 -48.29549,-18.8725 -88.82072,5.5229 33.07786,-37.4186 35.47483,-68.6789 -28.96328,-86.5241 62.44592,-21.4062 51.07506,-38.6726 27.03238,-55.2282 23.7534,-15.568 39.24089,-32.5267 -23.17063,-62.5919 36.49047,4.6741 75.34432,10.7001 36.68682,-27.6141 z"
+       id="path4582"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1276.0761,1952.9058 c 23.7239,14.2255 61.9488,43.044 76.2655,59.624 3.0955,-13.8639 8.4416,-25.7793 12.4353,-35.1298 16.784,12.1296 90.9257,73.1169 100.8209,94.759 -22.0361,-54.5674 -74.3748,-104.9506 -103.7006,-122.6017 -7.5332,11.6229 -10.4968,19.4636 -14.6173,25.5024 -25.4071,-2.5419 -56.6177,-44.4327 -56.8452,-44.9452 z"
+       id="path5066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 580.8868,2275.9404 c -30.11408,-20.6012 -40.65397,-39.7309 -37.64245,-51.5031 3.01138,-11.7721 30.11393,-72.1044 63.23924,-79.4621 33.12545,-7.3576 118.95024,-16.1866 138.52442,-8.829 19.57418,7.3574 75.28504,55.9177 75.28504,80.9335 0,25.0158 -10.53989,73.5759 -40.65397,88.291 -30.11393,14.7153 -162.6156,23.5444 -198.75228,-29.4303 z"
+       id="path3349"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 540.60243,2382.8139 c -0.83417,-24.5727 26.08672,-92.5552 141.47032,-84.7338 115.38359,7.8216 150.9906,35.8125 153.51033,79.5196 3.98615,69.1431 -57.13072,85.8965 -144.46535,88.5885 -90.03257,2.7752 -145.59151,-21.2216 -150.5153,-83.3743 z"
+       id="path3280"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 462.7487,2323.4218 c 19.54312,23.3799 27.8615,17.4813 37.10761,9.6978 9.24609,-7.7835 17.24434,-16.2258 23.0997,-13.9259 5.85539,2.3001 11.36723,10.3556 14.79931,17.3132 3.4321,6.9575 9.3438,2.994 16.07856,-0.5744 6.73479,-3.5684 43.2244,-10.0681 43.2244,-10.0681 0,0 -22.57858,29.6369 -31.0169,35.8681 -8.43834,6.2309 -11.50973,8.5673 -15.17309,9.7994 -3.66342,1.232 -12.74208,2.3755 -17.72582,-3.0266 -4.98374,-5.4019 -7.3681,-14.5768 -10.32818,-20.0976 -2.95996,-5.5207 -11.05253,-6.3898 -18.65118,-2.486 -7.59863,3.9039 -25.24054,9.1542 -32.47234,-0.9969 -7.2318,-10.1511 -8.94207,-21.503 -8.94207,-21.503 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="688.38007"
+       y="2194.8169"
+       id="text4246"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="688.38007"
+         y="2194.8169"
+         id="tspan4146">Pepper</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="688.38007"
+         y="2251.0669"
+         id="tspan3369">avat...</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="688.38007"
+         y="2307.3169"
+         id="tspan4152" /><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="688.38007"
+         y="2363.5669"
+         id="tspan3371">..Deus</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="688.38007"
+         y="2419.8169"
+         id="tspan3375">war da giz..</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.27773571px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.65554738;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1114.8938"
+       y="1880.3174"
+       id="text4246-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65px;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';stroke:#000000;stroke-width:2.65554738;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1114.8938"
+         y="1880.3174"
+         id="tspan4150-5">KET!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.79151154px;font-family:Lavi;-inkscape-font-specification:'Lavi Bold';stroke:#000000;stroke-width:2.65554738;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1114.8938"
+         y="1947.4141"
+         id="tspan4190">Mont a ran kuit!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2134.7527"
+       y="2348.5093"
+       id="text4246-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2134.7527"
+         y="2348.5093"
+         id="tspan4150-9">Ne gelennit ket</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2134.7527"
+         y="2404.7593"
+         id="tspan4228">gwir sorsellerezh !</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2134.7527"
+         y="2461.0093"
+         id="tspan4230">Mont a ran!...da gêr</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2134.7527"
+         y="2517.2593"
+         id="tspan4232">sorserezed Ah!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.64545612,-0.14502854,-0.28870948,0.70997447,753.86791,2340.5307)"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:70px;fill:#ffffff"><tspan
+           id="tspan4938"
+           style="font-size:62.03222656px">Zo</tspan><tspan
+           style="font-size:80.40014648px"
+           id="tspan4617">ooc</tspan><tspan
+           id="tspan4942"
+           style="font-size:100.29872894px">h</tspan><tspan
+           id="tspan4940"
+           style="font-size:123.25863647px"> !</tspan></tspan></text>
+  </g>
+</svg>
