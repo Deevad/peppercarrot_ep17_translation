@@ -16,6 +16,8 @@ License
 
 ## Translators and correctors:
 
+* Catalan: Juan José Segura
+
 * Breton: Stefan Carpentier
 
 * Chinese: Ran Zhuang
