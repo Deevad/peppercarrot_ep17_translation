@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2287013"
-     inkscape:cx="1765.8048"
+     inkscape:zoom="0.32343248"
+     inkscape:cx="1684.9133"
      inkscape:cy="1118.3444"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="F:\peppercarrot_ep17_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep17_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -116,26 +116,27 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1373.4856"
-       y="1400.2015"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.77198124px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1395.1346"
+       y="1367.7095"
        id="text4246-1"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.98099846,1.0193696)"><tspan
          sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-         x="1373.4856"
-         y="1400.2015"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.14493179px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+         x="1395.1346"
+         y="1367.7095"
          id="tspan4329">i lo jarco be lo ka me lo te makfa</tspan><tspan
          sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-         x="1373.4856"
-         y="1456.4515"
-         id="tspan4059">pe la kalsa na nitcu lo cartu a</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.14493179px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+         x="1395.1346"
+         y="1422.8906"
+         id="tspan4059">pe la kalsa na nitcu tu'a lo cartu</tspan><tspan
          sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-         x="1373.4856"
-         y="1512.7015"
-         id="tspan3380">lo kompaso i loi tarci cu raunzu</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.14493179px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+         x="1395.1346"
+         y="1478.0718"
+         id="tspan3380">a lo kompaso i loi tarci cu jai banzu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.30392742px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -182,7 +183,7 @@
          style="font-size:45px"
          x="2053.9636"
          y="1646.4164"
-         id="tspan3475">i au pu ctuca mi</tspan><tspan
+         id="tspan3475">i au pu ctuca mi fo</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2053.9636"

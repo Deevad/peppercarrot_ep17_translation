@@ -94,15 +94,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.26152142"
      inkscape:cx="2259.3513"
-     inkscape:cy="897.41361"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cy="1356.267"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -111,13 +111,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep17_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep17_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -268,7 +268,7 @@
          style="font-size:45px"
          x="926.40234"
          y="2225.5588"
-         id="tspan3788">lo jufra be do'e</tspan><tspan
+         id="tspan3788">lo jufra pe ja'e</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="926.40234"
