@@ -30,6 +30,8 @@ License
 
 * German: Philipp Hemmer
 
+* Hungarian: Halász Gábor "Hali"
+
 * Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
