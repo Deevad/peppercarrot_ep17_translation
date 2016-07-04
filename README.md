@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 17: A Fresh Start
 
 [preview render EN version, WIP link](http://www.peppercarrot.com/XYZ/index.php?subfolder=ep17-WIP_en)
@@ -41,6 +41,8 @@ License
 * Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
+
+* Portuguese: Alexandre Esteves Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
