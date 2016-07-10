@@ -98,9 +98,9 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52304284"
-     inkscape:cx="1344.6586"
-     inkscape:cy="2571.3006"
+     inkscape:zoom="0.36984714"
+     inkscape:cx="716.51479"
+     inkscape:cy="1566.8914"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -111,7 +111,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep17_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep17_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        width="2481"
        height="3503"
@@ -257,25 +257,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="921.83521"
-       y="2187.613"
+       x="917.70435"
+       y="2189.6082"
        id="text4246-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="921.83521"
-         y="2187.613"
+         x="917.70435"
+         y="2189.6082"
          id="tspan3427">Wolałabym nauczyć się</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="921.83521"
-         y="2243.863"
+         x="917.70435"
+         y="2245.8582"
          id="tspan3424">kilku zaklęć ataku,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="921.83521"
-         y="2300.113"
-         id="tspan3426">ale jeśli nie ma wyjścia...</tspan></text>
+         x="917.70435"
+         y="2302.1082"
+         id="tspan3426">ale lepsze to niż nic...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -345,6 +345,6 @@
          y="1240.1174"
          x="752.72009"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.12104797px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:role="line">Zdominuj!&quot;</tspan></text>
+         sodipodi:role="line">Zdominuj!&quot;.</tspan></text>
   </g>
 </svg>
