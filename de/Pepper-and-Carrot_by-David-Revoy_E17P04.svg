@@ -100,24 +100,24 @@
      showgrid="false"
      inkscape:zoom="0.52304284"
      inkscape:cx="1155.1149"
-     inkscape:cy="811.47667"
+     inkscape:cy="2952.7927"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\work\git\peppercarrot_ep17_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,7 +125,7 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 260.95377,269.36222 c -5.64522,-67.09231 7.72563,-148.83869 187.09155,-129.45117 171.01309,18.48466 160.33207,43.89555 162.14283,129.07731 1.9078,89.747 -67.88979,133.20531 -190.4229,124.60199 -71.80687,-5.04171 -143.36082,-9.81446 -158.81148,-124.22813 z"
+       d="m 228.65475,269.36222 c -6.81618,-67.09231 9.32815,-148.83869 225.89947,-129.45117 206.48589,18.48466 193.58934,43.89555 195.7757,129.07731 2.30353,89.747 -81.97199,133.20531 -229.92183,124.60199 -86.70158,-5.04171 -173.09778,-9.81446 -191.75334,-124.22813 z"
        id="path5026"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -227,12 +227,12 @@
          style="font-size:45px"
          x="443.67896"
          y="229.23553"
-         id="tspan4144">Am wichtigsten,</tspan><tspan
+         id="tspan3392">Wir müssen jetzt</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="443.67896"
          y="285.48553"
-         id="tspan3392">ruhig bleiben,</tspan><tspan
+         id="tspan3389">ganz ruhig bleiben,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="443.67896"

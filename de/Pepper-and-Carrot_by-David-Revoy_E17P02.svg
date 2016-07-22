@@ -138,13 +138,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\work\git\peppercarrot_ep17_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -257,28 +257,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="2078.5127"
-       y="1539.0598"
+       y="1529.0598"
        id="text4246-6-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2078.5127"
-         y="1539.0598"
-         id="tspan3384">Carrot, hole Kompass</tspan><tspan
+         y="1529.0598"
+         id="tspan3384">Carrot, gib mir</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2078.5127"
-         y="1595.3098"
-         id="tspan4286">und Karte raus:</tspan><tspan
+         y="1585.3098"
+         id="tspan4286">Kompass und Karte:</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2078.5127"
-         y="1651.5598"
-         id="tspan3388">bei dem Neben sehe ich</tspan><tspan
+         y="1641.5598"
+         id="tspan3388">bei dem Nebel sehe ich</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2078.5127"
-         y="1707.8098"
+         y="1697.8098"
          id="tspan4282">nicht wo es hingeht.</tspan></text>
     <text
        xml:space="preserve"

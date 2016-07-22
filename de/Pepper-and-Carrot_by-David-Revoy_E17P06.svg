@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.55419332"
      inkscape:cx="1380.2137"
-     inkscape:cy="2265.4342"
+     inkscape:cy="821.89461"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\work\git\peppercarrot_ep17_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -77,7 +77,7 @@
        sodipodi:nodetypes="csssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 214.92459,2448.5057 c 2.59912,-57.048 47.06668,-99.0445 165.00688,-89.032 63.17512,5.3632 134.85807,8.6969 131.78221,92.2637 -3.07593,83.5668 -106.04537,82.0452 -127.25687,84.1281 -21.21154,2.0827 -132.04917,-6.0046 -151.9459,-34.3037 -12.45489,-17.7147 -17.59599,-35.3928 -17.58632,-53.0561 z"
+       d="m 241.98317,2456.4961 c 2.36223,-51.8486 42.77695,-90.0175 149.96787,-80.9175 57.41724,4.8744 122.56688,7.9042 119.77136,83.8546 -2.79559,75.9504 -96.38022,74.5675 -115.65846,76.4605 -19.27829,1.8929 -120.01399,-5.4573 -138.09729,-31.1772 -11.31973,-16.1001 -15.99227,-32.167 -15.98348,-48.2204 z"
        id="path4546-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -139,20 +139,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.30392742px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="353.25095"
-       y="2493.156"
+       x="363.81006"
+       y="2504.2568"
        id="text4246-2-5-8"
        sodipodi:linespacing="125%"
        transform="scale(1.0253273,0.97529833)"><tspan
          sodipodi:role="line"
          style="font-size:46.13972855px"
-         x="353.25095"
-         y="2493.156"
-         id="tspan4406-1">Auf geht's</tspan><tspan
+         x="363.81006"
+         y="2504.2568"
+         id="tspan4406-1">Komm</tspan><tspan
          sodipodi:role="line"
          style="font-size:46.13972855px"
-         x="353.25095"
-         y="2550.8306"
+         x="363.81006"
+         y="2561.9314"
          id="tspan4487">Carrot !</tspan></text>
     <text
        xml:space="preserve"
