@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 17: A Fresh Start
 
 [preview render EN version, WIP link](http://www.peppercarrot.com/XYZ/index.php?subfolder=ep17-WIP_en)
@@ -16,7 +16,7 @@ License
 
 ## Translators and correctors:
 
-* Catalan: Juan Jos? Segura
+* Catalan: Juan José Segura
 
 * Breton: Stefan Carpentier
 
@@ -44,7 +44,7 @@ License
 
 * Mexicano: RJ Quiralta
 
-* Polish: S?lve Svartskogen
+* Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
 
