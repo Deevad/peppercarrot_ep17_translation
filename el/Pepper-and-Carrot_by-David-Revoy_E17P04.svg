@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3"
+         operator="dilate"
+         radius="1.3999999999999999"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-5-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-7-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-4-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-3-4"
+         operator="dilate"
+         radius="1.3999999999999999"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-8-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.52304284"
+     inkscape:cx="1031.2087"
+     inkscape:cy="3265.3874"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\Pepper And Carrot\Translation\peppercarrot_ep17_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 260.95377,269.36222 c -5.64522,-67.09231 7.72563,-148.83869 187.09155,-129.45117 171.01309,18.48466 160.33207,43.89555 162.14283,129.07731 1.9078,89.747 -67.88979,133.20531 -190.4229,124.60199 -71.80687,-5.04171 -143.36082,-9.81446 -158.81148,-124.22813 z"
+       id="path5026"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 498.24491,364.30621 c 14.3116,13.119 28.6233,30.4122 29.8159,34.5864 1.1926,4.1742 -10.1374,27.4306 -5.9632,32.2012 4.1742,4.7705 19.6785,5.3668 21.4675,8.9448 1.7889,3.5779 -3.5779,22.0637 0,25.6416 3.5779,3.5779 28.6232,13.119 29.8159,16.1006 1.1926,2.9816 7.7521,19.0822 19.6784,31.6048 -11.33,-31.6048 -7.7521,-38.1643 -11.9263,-42.9348 -4.1742,-4.7706 -20.8711,-8.9448 -23.2564,-14.3117 -2.3853,-5.3668 2.3853,-23.2564 -2.3853,-28.0269 -4.7705,-4.7705 -16.1006,-6.5595 -16.1006,-6.5595 4.1743,-4.7706 22.0638,-32.7975 2.3853,-60.8244 -19.6785,-28.027 -43.5312,3.5779 -43.5312,3.5779 z"
+       id="path5050"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 703.83409,2106.3432 c 40.97539,-29.8964 374.21971,-50.9948 448.67561,17.2861 104.5124,95.8446 31.3489,207.1246 -32.4073,239.2778 -63.756,32.1533 -290.78975,30.776 -371.97215,-3.8818 -81.18256,-34.6578 -117.53033,-52.1748 -116.46019,-145.2133 0.43679,-37.9728 31.18865,-77.5723 72.16403,-107.4688 z"
+       id="path4040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
+       d="m 1053.1541,2323.4353 c 56.6486,-8.1196 74.6866,77.8109 99.1468,95.2238 8.2079,5.8432 26.3946,16.6907 37.466,15.0181 18.68,-2.8221 30.511,-28.0837 88.2313,61.3955 12.1513,20.9889 54.2429,10.0247 75.1617,-17.5452 9.8232,-8.9416 34.65,-14.7872 65.2392,49.6966 11.5865,16.2103 37.8936,21.2691 53.138,9.79 7.7025,-6.4241 31.2324,-11.9054 45.5039,6.5655 -23.9511,-28.7726 -59.535,-12.507 -70.7254,-14.0184 -13.6375,-2.8761 -32.9536,-39.7043 -47.5075,-60.5647 -14.5541,-20.8605 -51.3302,-7.2812 -62.7782,-1.859 -11.4479,5.422 -23.4195,20.8102 -36.2788,14.2861 -12.86,-6.5247 -37.4015,-56.5686 -59.6585,-71.0054 -22.2565,-14.4362 -45.5345,4.011 -65.3887,-10.5542 -19.8544,-14.5653 -39.7544,-72.5593 -53.4356,-96.9436 -13.3003,-27.1332 -46.2655,-21.6029 -46.2655,-21.6029 z"
+       id="path3153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccccccsscssccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1898.9197,2910.9757 c -7.6911,-47.377 12.8186,-173.222 170.489,-162.8582 157.67,10.3635 183.3077,69.5847 187.1532,87.3511 3.8456,17.7663 37.1743,118.4424 -85.8854,145.0921 -123.0598,26.6494 -233.3005,-1.4807 -271.7568,-69.585 z"
+       id="path3525"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2091.1159,2968.2765 c 37.0707,-40.268 169.7054,-30.8169 221.111,0.7654 51.4052,31.5819 41.6981,69.7408 42.9375,86.814 1.2392,17.0731 -10.7545,94.9209 -39.2319,108.2574 -28.477,13.3361 -107.3469,15.2342 -134.691,13.2162 -27.3442,-2.0181 -97.619,-22.0109 -116.3512,-47.3471 -43.3469,-58.6285 -10.8452,-121.4378 26.2256,-161.7059 z"
+       id="path3330"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1874.7064,2699.416 c 2.7209,24.7705 5.5497,40.8568 15.3787,48.006 9.8287,7.1491 13.5006,12.076 26.2212,10.6235 12.7206,-1.4527 17.2198,-9.4615 31.2881,-6.5634 8.0133,1.6508 32.2563,53.4614 28.2024,73.002 -4.054,19.5407 36.5944,3.8257 36.5944,3.8257 0,0 -3.6849,-37.6012 -6.4866,-44.0851 -2.8019,-6.484 -12.5588,-50.5187 -43.0632,-56.9076 -30.5045,-6.3888 -45.8465,20.9009 -59.252,14.5604 -13.4053,-6.3403 -28.036,-24.1475 -28.883,-42.4615 z"
+       id="path3137"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssccssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:0.75;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99339968;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.2990777,-0.24739358,0.06701223,0.4604507,203.67479,2312.8617)"
+       inkscape:transform-center-x="-16.219953"
+       inkscape:transform-center-y="17.127952"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:101.83395386px;fill:#000000;stroke:#000000;stroke-width:0.99339968;stroke-miterlimit:4;stroke-dasharray:none">ΜπουααΑ!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;opacity:0.75;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-5-3)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-6-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.23908707,-0.30307499,0.17626921,0.41105241,41.200019,2415.101)"><tspan
+         sodipodi:role="line"
+         id="tspan4582-1-6"
+         x="787.65729"
+         y="1584.5073"
+         style="font-size:70px;fill:#000000"><tspan
+           style="font-size:112.32724762px"
+           id="tspan3415">ΜπουααΑ!</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 429.77059,1141.0136 c -17.34473,-110.6201 78.84832,-131.6689 118.20524,-134.0803 30.52239,-1.87 117.01792,1.865 200.19785,1.865 83.18023,0 289.74732,6.6053 324.67022,7.7292 115.3218,3.7111 131.4782,54.1029 134.1613,100.4771 2.6833,46.3741 -12.5867,82.9637 -60.8847,111.3034 -48.2981,28.3399 -349.64876,35.5478 -368.43137,32.9714 -18.78241,-2.5764 -268.32236,-20.6105 -284.42162,-28.3397 -16.09934,-7.729 -60.81367,-35.2467 -63.49692,-91.9261 z"
+       id="path3278"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1213.73,1364.8622 c -32.1706,-31.7914 -89.2723,-67.9667 -115.2651,-105.1095 l -7.2388,31.2558 c -16.3886,-8.2235 -26.7524,-22.755 -38.6224,-36.7639 l 0.3254,26.0613 c -38.4338,-19.8866 -64.08508,-37.8556 -95.07008,-63.9296 l -53.24144,31.1951 c 73.2942,6.0218 128.19492,51.6307 166.04482,79.2925 l 4.6482,-24.4623 c 12.0642,8.612 23.7954,17.7246 34.0403,29.0731 l 3.0485,-31.2067 z"
+       id="path4032"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:11.61596298px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="447.48502"
+       y="221.89929"
+       id="text4246"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96799692,1.0330611)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:43.55986023px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="447.48502"
+         y="221.89929"
+         id="tspan4144">Πάνω απ'όλα,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:43.55986023px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="447.48502"
+         y="278.14929"
+         id="tspan4150">μην πανικοβληθείς</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:43.55986023px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="447.48502"
+         y="334.39929"
+         id="tspan3390">Καροτούλη...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12.03227997px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="762.31848"
+       y="1070.1432"
+       id="text4246-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.00269,0.99731722)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45.12104797px;font-family:pecita;-inkscape-font-specification:'pecita Expanded';"
+         x="769.50085"
+         y="1070.1432"
+         id="tspan3404">&quot;Ένα παγερό βλέμα ηχεί όσο </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45.12104797px;font-family:pecita;-inkscape-font-specification:'pecita Expanded';"
+         x="762.31848"
+         y="1126.5446"
+         id="tspan3394">χίλιες κατάρες...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:PECITA;-inkscape-font-specification:'PECITA Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="926.40234"
+       y="2169.3088"
+       id="text4246-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:PECITA;-inkscape-font-specification:'PECITA Expanded'"
+         x="926.40234"
+         y="2169.3088"
+         id="tspan4269">Προσωπικά, θα προτιμούσα</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:PECITA;-inkscape-font-specification:'PECITA Expanded'"
+         x="936.99316"
+         y="2225.5588"
+         id="tspan3427">να μάθαινα μερικά </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:PECITA;-inkscape-font-specification:'PECITA Expanded'"
+         x="936.99316"
+         y="2281.8088"
+         id="tspan3405">επιθετικά ξόρκια, </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:PECITA;-inkscape-font-specification:'PECITA Expanded'"
+         x="926.40234"
+         y="2338.0588"
+         id="tspan4188">αλλά δε βαριέσαι...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="2084.9072"
+       y="2821.0134"
+       id="text4246-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2084.9072"
+         y="2821.0134"
+         id="tspan4269-3">Φτου...</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2084.9072"
+         y="2877.2634"
+         id="tspan4317">δεν έχουμε σκούπα</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2084.9072"
+         y="2933.5134"
+         id="tspan3431">ούτε εξοπλισμό...</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2084.9072"
+         y="2989.7634"
+         id="tspan4321" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="2213.0249"
+       y="3023.6958"
+       id="text4246-6-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2220.188"
+         y="3023.6958"
+         id="tspan3446">θα είναι </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2213.0249"
+         y="3079.9458"
+         id="tspan3411">ένα μεγάλο</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="2213.0249"
+         y="3136.1958"
+         id="tspan3413">ταξίδι...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12.03227997px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="746.70569"
+       y="1181.7107"
+       id="text4246-1-5"
+       sodipodi:linespacing="125%"
+       transform="scale(1.00269,0.99731722)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45.12104797px;font-family:pecita;-inkscape-font-specification:'pecita Expanded';stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         x="746.70569"
+         y="1181.7107"
+         id="tspan3406">...Κάρφωσε τους με το βλέμα σου</tspan></text>
+    <text
+       transform="scale(1.00269,0.99731722)"
+       sodipodi:linespacing="125%"
+       id="text4188"
+       y="1240.1174"
+       x="769.45703"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12.03227997px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4190"
+         y="1240.1174"
+         x="769.45703"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45.12104797px;font-family:pecita;-inkscape-font-specification:'pecita Expanded';stroke:#000000;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:role="line">Είσαι ΚΥΡΙΑΡΧΟΣ...&quot;</tspan></text>
+  </g>
+</svg>
