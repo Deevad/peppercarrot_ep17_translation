@@ -34,6 +34,8 @@ License
 
 * Greek: George Karettas
 
+* Hungarian: Halász Gábor "Hali"
+
 * Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
