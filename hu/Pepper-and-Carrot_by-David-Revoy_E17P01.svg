@@ -73,7 +73,7 @@
      showgrid="false"
      inkscape:zoom="0.37194736"
      inkscape:cx="1245.1565"
-     inkscape:cy="696.09239"
+     inkscape:cy="773.25436"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -86,11 +86,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep17_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P01.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -232,11 +232,13 @@
          y="1584.5073"
          style="font-size:70px;fill:#ffffff"><tspan
            id="tspan4938"
-           style="font-size:62.03222656px">Wo</tspan><tspan
+           style="font-size:62.03222656px">Hu</tspan><tspan
            style="font-size:80.40014648px"
-           id="tspan4617">oo</tspan><tspan
+           id="tspan4617">ss</tspan><tspan
            id="tspan4942"
-           style="font-size:100.29872894px">sh</tspan><tspan
+           style="font-size:100.29872894px">s!</tspan><tspan
+           id="tspan3370"
+           style="font-size:108.48004307px">!</tspan><tspan
            id="tspan4940"
            style="font-size:123.25863647px">!</tspan></tspan></text>
   </g>

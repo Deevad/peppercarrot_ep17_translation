@@ -100,11 +100,11 @@
      showgrid="false"
      inkscape:zoom="0.36984714"
      inkscape:cx="1334.3993"
-     inkscape:cy="862.48375"
+     inkscape:cy="781.58454"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep17_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -148,7 +148,7 @@
        sodipodi:nodetypes="cssccccccsscssccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1898.9197,2910.9757 c -7.6911,-47.377 12.8186,-173.222 170.489,-162.8582 157.67,10.3635 183.3077,69.5847 187.1532,87.3511 3.8456,17.7663 37.1743,118.4424 -85.8854,145.0921 -123.0598,26.6494 -233.3005,-1.4807 -271.7568,-69.585 z"
+       d="m 1882.8182,2907.4358 c -8.3729,-49.4856 13.9551,-180.9318 185.6039,-170.1067 171.6483,10.8248 199.559,72.6818 203.7454,91.2389 4.1865,18.5571 40.47,123.7141 -93.4997,151.5499 -133.9697,27.8356 -253.9839,-1.5466 -295.8496,-72.6821 z"
        id="path3525"
        inkscape:connector-curvature="0" />
     <path
@@ -294,7 +294,7 @@
          style="font-size:45px"
          x="2084.9072"
          y="2821.0134"
-         id="tspan4269-3">shoot...</tspan><tspan
+         id="tspan4269-3">A fene vigye el,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2084.9072"

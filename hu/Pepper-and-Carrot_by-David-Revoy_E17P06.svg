@@ -45,11 +45,11 @@
      showgrid="false"
      inkscape:zoom="0.4574026"
      inkscape:cx="1267.6953"
-     inkscape:cy="687.92495"
+     inkscape:cy="597.31839"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep17_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -71,7 +71,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1187.0752,1451.4835 c -25.5961,-91.5539 -174.0403,-114.3577 -134.2315,-117.2114 30.873,-2.2134 282.1085,-2.2635 366.6111,-4.0593 84.5026,-1.796 302.1546,2.6477 373.3686,7.1499 76.2798,4.8223 99.0836,48.229 104.7157,97.486 7.3923,64.6552 -25.9127,77.8073 -79.7086,99.6199 -54.579,22.13 -335.6433,30.52 -354.9102,28.7848 -19.2668,-1.7356 -418.6096,5.2809 -435.5219,-0.7946 -16.9126,-6.0755 166.4894,-63.9311 159.6768,-110.9753 z"
+       d="m 1192.3139,1451.4835 c -26.4301,-91.5539 -179.7111,-114.3577 -138.6052,-117.2114 31.879,-2.2134 291.3006,-2.2635 378.5565,-4.0593 87.256,-1.796 311.9998,2.6477 385.5342,7.1499 78.7653,4.8223 102.3121,48.229 108.1277,97.486 7.6332,64.6552 -26.757,77.8073 -82.3057,99.6199 -56.3574,22.13 -346.5797,30.52 -366.4744,28.7848 -19.8946,-1.7356 -432.2493,5.2809 -449.7127,-0.7946 -17.4637,-6.0755 171.9142,-63.9311 164.8796,-110.9753 z"
        id="path3278-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssssc" />

@@ -202,15 +202,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2287013"
-     inkscape:cx="579.74066"
-     inkscape:cy="1748.2002"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:zoom="0.4574026"
+     inkscape:cx="1274.4941"
+     inkscape:cy="673.62792"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -219,13 +219,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P03.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep17_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P03.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P03.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -247,12 +247,8 @@
          id="tspan4582-1-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#fff4bf;fill-opacity:1;stroke:#98b9ca;stroke-opacity:1"><tspan
-           style="font-size:93.14950562px;fill:#fff4bf;fill-opacity:1;stroke:#98b9ca;stroke-opacity:1"
-           id="tspan4315-8">Cr<tspan
-   style="font-size:120.16034698px;fill:#fff4bf;fill-opacity:1"
-   id="tspan4176">rAsh</tspan>!</tspan><tspan
-           style="font-size:114.73223114px;fill:#fff4bf;fill-opacity:1;stroke:#98b9ca;stroke-opacity:1"
-           id="tspan4313-2">!</tspan></tspan></text>
+         style="font-size:93.14950562px;fill:#fff4bf;fill-opacity:1;stroke:#98b9ca;stroke-opacity:1">Reccs!! <tspan
+   style="font-size:105.4150606px"
+   id="tspan3370">Ropp!!</tspan></tspan></text>
   </g>
 </svg>
