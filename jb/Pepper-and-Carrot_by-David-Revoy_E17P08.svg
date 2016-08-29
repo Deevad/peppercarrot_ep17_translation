@@ -39,6 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.29755788"
+     inkscape:cx="1345.8291"
+     inkscape:cy="861.52038"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+=======
      inkscape:window-width="1600"
      inkscape:window-height="852"
      id="namedview4"
@@ -48,6 +59,7 @@
      inkscape:cy="563.8577"
      inkscape:window-x="0"
      inkscape:window-y="0"
+>>>>>>> 2378245874fb0906dc84bc0014a16a83f21c1b17
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -66,8 +78,13 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
+<<<<<<< HEAD
+       sodipodi:absref="F:\pc\peppercarrot_ep17_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P08.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P08.png"
+=======
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep17_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P08.png"
+>>>>>>> 2378245874fb0906dc84bc0014a16a83f21c1b17
        y="-1023.3771"
        x="0.54707891"
        id="image4223"
@@ -99,22 +116,39 @@
          x="1240.4587"
          y="-773.15283"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+<<<<<<< HEAD
+         id="tspan3382">i la'e lu la piper jo'u la karot li'u fingubni</tspan><tspan
+=======
          id="tspan3382">la'e lu la piper jo'u la karot li'u fingubni gi'e jai se sarji lo tcidu be vo'a</tspan><tspan
+>>>>>>> 2378245874fb0906dc84bc0014a16a83f21c1b17
          sodipodi:role="line"
          x="1240.4587"
          y="-723.15283"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+<<<<<<< HEAD
+         id="tspan5261">i sarji lo nu finti kei fa lo 719 se selfu prenu pe la'e di'e</tspan></text>
+=======
          id="tspan3352">i lo me dei pagbu zo'u ckire lo 719 sarji pe di'e</tspan></text>
+>>>>>>> 2378245874fb0906dc84bc0014a16a83f21c1b17
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
        x="1240.49"
-       y="3271.4817"
+       y="3233.4817"
        id="text4221"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4223"
          x="1240.49"
+<<<<<<< HEAD
+         y="3233.4817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">i e'u do co'a se selfu lo finti pe la'e lu la piper jo'u la karot li'u</tspan><tspan
+         sodipodi:role="line"
+         x="1240.49"
+         y="3283.4817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         id="tspan5265">i ko vitke lo se judri be zoi zoi.http://www.patreon.com/davidrevoy.zoi.</tspan></text>
+=======
          y="3271.4817"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">i e'u do co'a se selfu lo finti pe la'e lu la piper jo'u la karot li'u</tspan><tspan
          sodipodi:role="line"
@@ -122,5 +156,6 @@
          y="3321.4817"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
          id="tspan3354">i ko vitke lo se judri be zoi zoi.http://www.patreon.com/davidrevoy.zoi.</tspan></text>
+>>>>>>> 2378245874fb0906dc84bc0014a16a83f21c1b17
   </g>
 </svg>
