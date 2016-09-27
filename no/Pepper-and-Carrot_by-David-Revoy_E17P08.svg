@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="4503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P08.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       id="filter4155"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feBlend
+         id="feBlend4157"
+         in2="BackgroundImage"
+         mode="multiply"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.13642913"
+     inkscape:cx="2927.2539"
+     inkscape:cy="1984.4105"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="3653.5365,4415.3377"
+       orientation="0,1"
+       id="guide4214" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     transform="translate(0,1024)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep17_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P08.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P08.png"
+       y="-1023.3771"
+       x="0.54707891"
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="4504.5391"
+       width="2481.4438" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline"
+     transform="translate(0,1024)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:inline;opacity:0.855"
+     transform="translate(0,1024)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4162-1"
+       y="-772.03101"
+       x="1240.7734"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.599355;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       xml:space="preserve"><tspan
+         id="tspan4168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-772.03101"
+         x="1240.7734"
+         sodipodi:role="line">Pepper &amp; Gulrot er fullstendig fri og <tspan
+   id="tspan4173"
+   style="font-size:35px">å</tspan>pen kildekode,</tspan><tspan
+         id="tspan4166-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-722.03101"
+         x="1247.8047"
+         sodipodi:role="line">sponset av dedikerte og trofaste lesere via Patreon. </tspan><tspan
+         id="tspan4163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="-672.03101"
+         x="1240.7734"
+         sodipodi:role="line">Stor takk til de 719 følgerne som har sponset denne episoden:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4221-7"
+       y="3272.1348"
+       x="1240.998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.599355;fill:#483e37;fill-opacity:1;stroke:none;filter:url(#filter4155)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         y="3272.1348"
+         x="1240.998"
+         id="tspan4223-0"
+         sodipodi:role="line">Du kan ogs<tspan
+   id="tspan4147"
+   style="font-size:35px">å</tspan> bli en sponsor av Pepper &amp; Gulrot p<tspan
+   id="tspan4153"
+   style="font-size:35px">å</tspan> www.patreon.com/davidrevoy</tspan></text>
+  </g>
+</svg>
