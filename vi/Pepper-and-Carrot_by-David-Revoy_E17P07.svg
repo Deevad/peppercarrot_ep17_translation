@@ -174,8 +174,8 @@
      showgrid="false"
      inkscape:zoom="0.49190037"
      inkscape:cx="949.82885"
-     inkscape:cy="1510.8472"
-     inkscape:window-x="-9"
+     inkscape:cy="2891.9848"
+     inkscape:window-x="17"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -187,11 +187,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep17_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -279,19 +279,19 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-       x="886.44354"
-       y="217.56387"
+       x="888.44354"
+       y="223.56387"
        id="text4246-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-         x="886.44354"
-         y="217.56387"
+         x="888.44354"
+         y="223.56387"
          id="tspan3485">Bây giờ anh biết</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-         x="886.44354"
-         y="273.81387"
+         x="888.44354"
+         y="279.81387"
          id="tspan27018">toàn câu chuyện.</tspan></text>
     <text
        xml:space="preserve"
@@ -314,34 +314,34 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="1277.17"
          y="590.65076"
-         id="tspan27316">họ chẳng được dạy em</tspan><tspan
+         id="tspan27316">họ chẳng được dạy dỗ em</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="1277.17"
          y="646.90076"
-         id="tspan27320">cái gì thế?</tspan></text>
+         id="tspan27320">gì cả thế?</tspan></text>
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 428.88958,198.34636 c -1.8768,-14.11879 31.61228,-83.63219 146.39103,-79.06505 142.46552,5.66882 137.00705,63.06377 136.06861,81.88883 -0.93845,18.82498 -29.09047,48.00378 -45.98181,52.71004 -16.89125,4.70627 -60.99625,16.0012 -89.14846,12.23632 -28.15201,-3.76508 -108.88919,-7.61522 -125.78054,-24.5578 -16.89124,-16.94247 -19.67204,-39.44736 -21.54883,-43.21234 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 376.04717,198.34636 c -2.22791,-14.11879 37.52629,-83.63219 173.77779,-79.06505 169.1179,5.66882 162.63826,63.06377 161.52426,81.88883 -1.11401,18.82498 -34.5327,48.00378 -54.58406,52.71004 -20.05126,4.70627 -72.4074,16.0012 -105.82632,12.23632 -33.41867,-3.76508 -129.26012,-7.61522 -149.3115,-24.5578 -20.05124,-16.94247 -23.35227,-39.44736 -25.58017,-43.21234 z"
        id="path3365"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-       x="571.54419"
+       x="541.54419"
        y="177.26059"
        id="text4246-0-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-         x="571.54419"
+         x="541.54419"
          y="177.26059"
-         id="tspan3481">...và em</tspan><tspan
+         id="tspan3481">...và sau cùng</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
-         x="571.54419"
+         x="541.54419"
          y="233.51059"
-         id="tspan27324">tới đây.</tspan></text>
+         id="tspan27324">em tới đây.</tspan></text>
   </g>
 </svg>

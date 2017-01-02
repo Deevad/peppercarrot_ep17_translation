@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4574026"
-     inkscape:cx="1967.8968"
-     inkscape:cy="2747.4437"
+     inkscape:cx="1291.2907"
+     inkscape:cy="881.35972"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep17_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -129,12 +129,12 @@
          sodipodi:role="line"
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
          x="1377.4856"
-         y="1462.1301"
-         id="tspan26535">cần nhờ địa bản hay bản đồ.</tspan><tspan
+         y="1460.4515"
+         id="tspan26535">cần nhờ địa bàn hay bản đồ.</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
          x="1377.4856"
-         y="1520.0586"
+         y="1516.7015"
          id="tspan3380">Bầu trời đầy ngôi sao là đủ&quot;</tspan></text>
     <text
        xml:space="preserve"
@@ -197,6 +197,6 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="2055.9636"
          y="1770.9164"
-         id="tspan26781">thật nhiều hơn!</tspan></text>
+         id="tspan26781">thật hơn!</tspan></text>
   </g>
 </svg>

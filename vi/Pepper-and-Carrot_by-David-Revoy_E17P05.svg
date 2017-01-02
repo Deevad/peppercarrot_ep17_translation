@@ -68,7 +68,7 @@
      showgrid="false"
      inkscape:zoom="0.52601298"
      inkscape:cx="1222.7862"
-     inkscape:cy="933.42145"
+     inkscape:cy="1103.2435"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -81,11 +81,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep17_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -255,7 +255,7 @@
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
          x="1988.2058"
          y="1099.0845"
-         id="tspan26241">thuốc có sẵn sàng</tspan><tspan
+         id="tspan26241">chai thuốc có sẵn sàng</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
          x="1994.446"
@@ -277,12 +277,12 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="933.64618"
          y="2607.8276"
-         id="tspan26268">đươc ̣dạy tôi</tspan><tspan
+         id="tspan26272">được dạy tôi làm</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="933.64618"
          y="2664.0776"
-         id="tspan26272">làm một cái!</tspan></text>
+         id="tspan30307">một chai!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
