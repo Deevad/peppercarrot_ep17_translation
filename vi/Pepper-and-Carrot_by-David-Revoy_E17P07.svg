@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P07.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5522">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5524" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5526" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5528" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5530" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5532" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5534">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5536" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5538" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5540" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5542" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5544" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5546">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5558">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5560" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5562" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5564" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5566" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5568" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.49190037"
+     inkscape:cx="949.82885"
+     inkscape:cy="2891.9848"
+     inkscape:window-x="17"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep17_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="opacity:1">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 999.28471,421.307 c 57.09079,-31.63787 476.80629,-46.43656 570.06719,8.6955 105.3371,62.27099 30.0722,195.49274 -53.21,223.37364 -78.7236,26.35485 -287.6889,44.78928 -390.7986,18.18743 -103.1098,-26.60183 -183.2768,-62.55759 -187.89198,-141.98517 -1.88393,-32.41756 4.74246,-76.63352 61.83339,-108.2714 z"
+       id="path4040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1718.5209,509.9842 c -7.7418,16.19807 -15.5076,33.1973 -32.4434,44.53252 -4.9282,3.13091 -10.3949,6.06413 -16.7951,7.55715 -7.4315,0.34787 -14.9982,-3.69945 -19.5221,-8.64539 -7.1207,-6.8955 -11.3036,-15.81586 -21.4899,-20.78482 -7.4974,-3.49757 -15.0354,-1.37767 -21.6815,-0.0597 -16.7822,3.62734 -32.5282,9.11411 -50.5605,10.55753 -19.8886,2.65529 -41.3726,4.30783 -62.9062,-1.38774 -8.498,-2.35513 -17.1818,-5.65988 -23.4987,-11.12248 -16.9211,-13.58117 -25.455,-33.19058 -18.7509,-48.31082 5.6068,-9.14761 23.0937,-12.59261 36.7206,-5.62125 7.2465,3.60893 11.003,9.87667 12.2022,15.6104 4.8041,10.62809 13.5292,16.17886 27.3657,20.48853 11.3777,3.68742 23.4851,4.84238 34.5115,3.72094 16.3526,1.58414 28.7095,-5.25897 41.9672,-9.32447 6.1131,-1.78274 14.7425,-0.81807 21.9596,0.003 10.4123,2.98538 18.6964,8.13329 22.7748,15.25714 4.4423,7.30296 9.0427,15.99488 19.2106,20.41309 6.6879,3.70799 9.9042,1.61642 15.0888,-0.007 15.318,-7.03414 27.7026,-16.42843 34.5809,-29.01708 0.5231,-1.25492 0.8972,-2.55454 1.2667,-3.85901 z"
+       id="path4496-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 669.52299,227.35747 c 31.78189,-77.62817 117.22729,-70.50379 182.21433,-74.34331 82.21916,-4.65443 204.52778,-0.20301 244.29198,37.08895 63.3804,64.87671 -27.4714,101.7908 -90.8278,117.23307 -101.2256,21.71321 -205.59942,11.70202 -305.87724,-11.55407 -18.63849,-5.68219 -39.78495,-41.78218 -29.80127,-68.42464 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 769.01638,470.98308 c 62.14532,-16.29259 90.41803,-60.54356 101.98459,-144.73098 11.48796,-83.61528 42.62521,-40.29844 42.62521,-40.29844 0,0 -10.34632,173.42219 -144.6098,185.02942 z"
+       id="path3984"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.72782516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;display:inline;filter:url(#filter5558);font-family:Arial;-inkscape-font-specification:Arial"
+       x="1240.6473"
+       y="3388.5505"
+       id="text4229"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1240.6473"
+         y="3388.5505"
+         style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:#ffffff;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="tspan4169">Bản Phép: Creative Commons Attribution 4.0, Bản Phép: Krita, Gmic, Inkscape dùng Ubuntu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;visibility:visible;display:inline;overflow:visible;filter:url(#filter5546);enable-background:accumulate;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
+       x="1242.353"
+       y="3350.7795"
+       id="text4246-42-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
+         x="1242.353"
+         y="3350.7795"
+         id="tspan4252-9-9">Soạn từ vũ trụ Hereva được sáng tạo bởi David Revoy và góp ý từ Craig Maloney. Chỉnh sửa bởi Willem Sonke, Moini, Hali, CGand và Alex Gryson.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:63.55184174px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5534);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="2028.7821"
+       y="2443.6147"
+       id="text4213"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.75304346,0,-0.11971288,1.3279446,0,27.158278)"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="2028.7821"
+         y="2443.6147"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'">- HẾT -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.79592609px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="1240.0964"
+       y="3314.6868"
+       id="text4246-42"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:36.73472214px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="1240.0964"
+         y="3314.6868"
+         id="tspan4252-9">06/2016 - www.peppercarrot.com - Đồ Họa &amp; Câu Chuyện : David Revoy - Dịch Tiếng Việt : Hồ Nhựt Châu</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="888.44354"
+       y="223.56387"
+       id="text4246-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="888.44354"
+         y="223.56387"
+         id="tspan3485">Bây giờ anh biết</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="888.44354"
+         y="279.81387"
+         id="tspan27018">toàn câu chuyện.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="1277.17"
+       y="478.15073"
+       id="text4246-0-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="1277.17"
+         y="478.15073"
+         id="tspan3496">...và em nói với anh rằng em</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="1277.17"
+         y="534.40076"
+         id="tspan27310">có thể tới đây một mình nhưng</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="1277.17"
+         y="590.65076"
+         id="tspan27316">họ chẳng được dạy dỗ em</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="1277.17"
+         y="646.90076"
+         id="tspan27320">gì cả thế?</tspan></text>
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 376.04717,198.34636 c -2.22791,-14.11879 37.52629,-83.63219 173.77779,-79.06505 169.1179,5.66882 162.63826,63.06377 161.52426,81.88883 -1.11401,18.82498 -34.5327,48.00378 -54.58406,52.71004 -20.05126,4.70627 -72.4074,16.0012 -105.82632,12.23632 -33.41867,-3.76508 -129.26012,-7.61522 -149.3115,-24.5578 -20.05124,-16.94247 -23.35227,-39.44736 -25.58017,-43.21234 z"
+       id="path3365"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       x="541.54419"
+       y="177.26059"
+       id="text4246-0-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="541.54419"
+         y="177.26059"
+         id="tspan3481">...và sau cùng</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+         x="541.54419"
+         y="233.51059"
+         id="tspan27324">em tới đây.</tspan></text>
+  </g>
+</svg>
