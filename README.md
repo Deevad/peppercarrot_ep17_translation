@@ -28,6 +28,8 @@ License
 
 * English: Alex Gryson
 
+* Farsi: Aslan Zamanloo
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Remi Rampin
