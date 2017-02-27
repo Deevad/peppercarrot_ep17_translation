@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.55419332"
-     inkscape:cx="1380.2137"
-     inkscape:cy="821.89461"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.39187385"
+     inkscape:cx="1295.6531"
+     inkscape:cy="771.48009"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -57,13 +57,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep17_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep17_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -130,7 +130,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1411.4856"
          y="1460.4515"
-         id="tspan3362">braucht keine Karte oder Kompass.</tspan><tspan
+         id="tspan3362">braucht weder Karte noch Kompass.</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1411.4856"

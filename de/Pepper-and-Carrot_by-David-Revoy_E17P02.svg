@@ -121,15 +121,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="true"
-     inkscape:zoom="0.69172418"
-     inkscape:cx="1317.6939"
-     inkscape:cy="2084.0467"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.48912286"
+     inkscape:cx="990.57772"
+     inkscape:cy="448.46581"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -138,13 +138,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep17_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep17_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -247,7 +247,7 @@
          style="font-size:45px"
          x="407.5946"
          y="1282.0345"
-         id="tspan4230">sagen wie wir zu den</tspan><tspan
+         id="tspan4230">sagen, wie wir zu den</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="407.5946"
@@ -279,7 +279,7 @@
          style="font-size:45px"
          x="2078.5127"
          y="1697.8098"
-         id="tspan4282">nicht wo es hingeht.</tspan></text>
+         id="tspan4282">nicht, wo es hingeht.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"

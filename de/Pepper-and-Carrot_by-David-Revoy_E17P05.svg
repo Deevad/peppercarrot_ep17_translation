@@ -62,15 +62,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52601298"
-     inkscape:cx="1537.5909"
-     inkscape:cy="676.4888"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.37194735"
+     inkscape:cx="1322.5067"
+     inkscape:cy="461.40459"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -79,13 +79,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep17_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -251,7 +251,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1988.2058"
          y="986.58441"
-         id="tspan4192">&quot;Zu wissen welche Pflanzen</tspan><tspan
+         id="tspan4192">&quot;Zu wissen, welche Pflanzen</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
          x="1996.116"
@@ -310,7 +310,7 @@
          style="font-size:45px"
          x="906.27588"
          y="1863.1576"
-         id="tspan3427">ausgehungert</tspan><tspan
+         id="tspan3427">ausgehungert,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="906.27588"
