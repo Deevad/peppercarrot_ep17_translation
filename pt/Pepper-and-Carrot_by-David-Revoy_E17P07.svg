@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E17P07.svg">
@@ -173,7 +173,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190037"
-     inkscape:cx="1165.7713"
+     inkscape:cx="914.7042"
      inkscape:cy="781.99604"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -185,13 +185,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep17_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
+       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep17_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E17P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -224,53 +224,49 @@
        sodipodi:nodetypes="cscc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558)"
        x="1240.6473"
        y="3388.5505"
-       id="text4229"
-       sodipodi:linespacing="125%"><tspan
+       id="text4229"><tspan
          sodipodi:role="line"
          x="1240.6473"
          y="3388.5505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
          id="tspan4169">Licença: Creative Commons Attribution 4.0, Software: Krita, Gmic, Inkscape no Ubuntu</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
        x="1242.353"
        y="3350.7795"
-       id="text4246-42-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-42-4"><tspan
          sodipodi:role="line"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
          x="1242.353"
          y="3350.7795"
          id="tspan4252-9-9">Baseado no universo Hereva criado por David Revoy com contribuições de Craig Maloney. Correções por Willem Sonke, Moini, Hali, CGand e Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534)"
        x="2028.7821"
        y="2443.6147"
        id="text4213"
-       sodipodi:linespacing="125%"
        transform="matrix(0.75304346,0,-0.11971288,1.3279446,0,27.158278)"><tspan
          sodipodi:role="line"
          id="tspan4215"
          x="2028.7821"
          y="2443.6147"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- FIM -</tspan></text>
+         style="font-size:63.55184174px;line-height:1.25;fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- FIM -</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522)"
        x="1240.0964"
        y="3314.6868"
-       id="text4246-42"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-42"><tspan
          sodipodi:role="line"
-         style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
+         style="font-size:36.73472214px;line-height:1.25;fill:#ffffff;stroke:#ffffff"
          x="1240.0964"
          y="3314.6868"
-         id="tspan4252-9">06/2016 - www.peppercarrot.com - Arte e Roteiro: David Revoy - Tradução para Português: Alexandre Esteves Almeida</tspan></text>
+         id="tspan4252-9">06/2016 - www.peppercarrot.com - Arte e Roteiro: David Revoy - Tradução para Português: Alexandre E. Almeida</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -278,40 +274,38 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="886.44354"
        y="217.56387"
-       id="text4246-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-0"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="886.44354"
          y="217.56387"
          id="tspan3485">Agora você sabe</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="886.44354"
          y="273.81387"
          id="tspan9526">toda a história</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1277.17"
        y="478.15073"
-       id="text4246-0-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-0-2"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1277.17"
          y="478.15073"
          id="tspan3502">...então você quer dizer que</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1277.17"
          y="534.40076"
          id="tspan9528">você está aqui porque elas</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="1277.17"
          y="590.65076"
          id="tspan3496">não te ensinaram <tspan
@@ -325,18 +319,17 @@
        sodipodi:nodetypes="csssssc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="571.54419"
        y="177.26059"
-       id="text4246-0-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-0-7"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="571.54419"
          y="177.26059"
          id="tspan3481">...então</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;line-height:1.25"
          x="571.54419"
          y="233.51059"
          id="tspan9518">é isso.</tspan></text>
